@@ -1,0 +1,1566 @@
+[fitness: 5.6778826E-4 crashed: true pos: (316.21378,-0.92278576) normal: 0.34799325 time: 0.0
+, fitness: 7.775951E-4 crashed: true pos: (351.07523,192.47514) normal: 0.47658232 time: 0.0
+, fitness: 5.3817034E-4 crashed: true pos: (522.69244,-2.2329984) normal: 0.32984063 time: 0.0
+, fitness: 7.647007E-4 crashed: true pos: (507.11517,228.02452) normal: 0.46867943 time: 0.0
+, fitness: 7.7914936E-4 crashed: true pos: (483.30786,228.2219) normal: 0.4775349 time: 0.0
+, fitness: 5.2965863E-4 crashed: true pos: (12.860336,-0.29961967) normal: 0.32462388 time: 0.0
+, fitness: 7.769634E-4 crashed: true pos: (367.8396,194.4037) normal: 0.4761952 time: 0.0
+, fitness: 5.660162E-4 crashed: true pos: (270.4877,-3.4765034) normal: 0.34690714 time: 0.0
+, fitness: 5.994285E-4 crashed: true pos: (613.4835,120.46) normal: 0.3673853 time: 0.0
+, fitness: 7.8674225E-4 crashed: true pos: (294.00323,194.60968) normal: 0.48218852 time: 0.0
+, fitness: 5.329319E-4 crashed: true pos: (-6.634569,12.682478) normal: 0.32663003 time: 0.0
+, fitness: 7.8442524E-4 crashed: true pos: (466.9247,225.49399) normal: 0.48076844 time: 0.0
+, fitness: 5.5687525E-4 crashed: true pos: (153.16492,-2.524857) normal: 0.34130478 time: 0.0
+, fitness: 6.5161294E-4 crashed: true pos: (608.4675,179.42923) normal: 0.39936876 time: 0.0
+, fitness: 5.6058366E-4 crashed: true pos: (312.24423,-10.130005) normal: 0.3435776 time: 0.0
+, fitness: 5.7844113E-4 crashed: true pos: (-9.445013,78.72625) normal: 0.35452232 time: 0.0
+, fitness: 5.6206895E-4 crashed: true pos: (234.67468,-6.655766) normal: 0.3444879 time: 0.0
+, fitness: 7.85622E-4 crashed: true pos: (277.81094,193.95125) normal: 0.48150194 time: 0.0
+, fitness: 7.789124E-4 crashed: true pos: (479.5804,226.53728) normal: 0.4773897 time: 0.0
+, fitness: 7.864562E-4 crashed: true pos: (292.11462,194.40602) normal: 0.48201323 time: 0.0
+, fitness: 5.3349434E-4 crashed: true pos: (-3.8133774,12.344217) normal: 0.32697475 time: 0.0
+, fitness: 5.639437E-4 crashed: true pos: (215.17671,-2.5423522) normal: 0.34563693 time: 0.0
+, fitness: 5.684677E-4 crashed: true pos: (266.66354,-0.32241392) normal: 0.34840968 time: 0.0
+, fitness: 5.4865476E-4 crashed: true pos: (466.259,-3.9274445) normal: 0.33626646 time: 0.0
+, fitness: 8.3736837E-4 crashed: true pos: (233.0821,228.48033) normal: 0.5132169 time: 0.0
+]Generation: 1
+max fitness: 8.3736837E-4
+[fitness: 5.684155E-4 crashed: true pos: (266.62833,-0.38597488) normal: 0.34281853 time: 0.0
+, fitness: 7.782073E-4 crashed: true pos: (350.81503,192.85085) normal: 0.4693466 time: 0.0
+, fitness: 7.855956E-4 crashed: true pos: (463.90677,225.1834) normal: 0.47380263 time: 0.0
+, fitness: 5.5959646E-4 crashed: true pos: (170.31853,-2.046926) normal: 0.33749968 time: 0.0
+, fitness: 5.59822E-4 crashed: true pos: (176.91907,-2.8254342) normal: 0.3376357 time: 0.0
+, fitness: 5.683632E-4 crashed: true pos: (266.59314,-0.44969273) normal: 0.34278697 time: 0.0
+, fitness: 5.4880354E-4 crashed: true pos: (101.29256,-1.5386481) normal: 0.3309903 time: 0.0
+, fitness: 7.785091E-4 crashed: true pos: (480.0115,226.42401) normal: 0.46952862 time: 0.0
+, fitness: 5.679428E-4 crashed: true pos: (315.9958,-0.7396116) normal: 0.34253344 time: 0.0
+, fitness: 7.836526E-4 crashed: true pos: (472.35376,227.02438) normal: 0.47263074 time: 0.0
+, fitness: 5.2517856E-4 crashed: true pos: (18.164776,-9.245133) normal: 0.3167418 time: 0.0
+, fitness: 7.856927E-4 crashed: true pos: (277.88834,193.99556) normal: 0.47386116 time: 0.0
+, fitness: 6.515435E-4 crashed: true pos: (608.89014,179.6114) normal: 0.39295408 time: 0.0
+, fitness: 7.869947E-4 crashed: true pos: (294.0343,194.7732) normal: 0.4746464 time: 0.0
+, fitness: 7.8671676E-4 crashed: true pos: (292.33176,194.57628) normal: 0.47447878 time: 0.0
+, fitness: 5.595552E-4 crashed: true pos: (162.92432,-0.8264127) normal: 0.33747476 time: 0.0
+, fitness: 5.380176E-4 crashed: true pos: (523.2874,-2.2570639) normal: 0.32448518 time: 0.0
+, fitness: 5.5751076E-4 crashed: true pos: (157.4227,-2.492589) normal: 0.33624175 time: 0.0
+, fitness: 5.657562E-4 crashed: true pos: (270.55597,-3.8030953) normal: 0.3412147 time: 0.0
+, fitness: 5.4848456E-4 crashed: true pos: (466.43027,-4.1174974) normal: 0.3307979 time: 0.0
+, fitness: 8.0200774E-4 crashed: true pos: (436.21405,226.7832) normal: 0.48370096 time: 0.0
+, fitness: 7.947073E-4 crashed: true pos: (275.64267,199.82175) normal: 0.47929794 time: 0.0
+, fitness: 8.3785126E-4 crashed: true pos: (232.67552,228.80472) normal: 0.50531864 time: 0.0
+, fitness: 7.8119023E-4 crashed: true pos: (280.4898,191.01585) normal: 0.47114566 time: 0.0
+, fitness: 5.6053605E-4 crashed: true pos: (312.4524,-10.18359) normal: 0.33806634 time: 0.0
+]Generation: 2
+max fitness: 8.3785126E-4
+[fitness: 7.812599E-4 crashed: true pos: (280.56772,191.06041) normal: 0.4497047 time: 0.0
+, fitness: 5.4832007E-4 crashed: true pos: (466.5022,-4.32496) normal: 0.31562114 time: 0.0
+, fitness: 5.6620705E-4 crashed: true pos: (227.76721,-0.88287115) normal: 0.32591712 time: 0.0
+, fitness: 8.314687E-4 crashed: true pos: (244.45021,223.89877) normal: 0.47860563 time: 0.0
+, fitness: 8.3799945E-4 crashed: true pos: (232.43108,228.9183) normal: 0.48236483 time: 0.0
+, fitness: 5.634661E-4 crashed: true pos: (287.89804,-6.8918214) normal: 0.3243394 time: 0.0
+, fitness: 5.578386E-4 crashed: true pos: (157.06892,-1.998229) normal: 0.3211001 time: 0.0
+, fitness: 7.8150124E-4 crashed: true pos: (315.1517,191.88525) normal: 0.44984365 time: 0.0
+, fitness: 7.8150706E-4 crashed: true pos: (280.84726,191.21838) normal: 0.44984698 time: 0.0
+, fitness: 7.9345E-4 crashed: true pos: (443.0346,223.30333) normal: 0.4567215 time: 0.0
+, fitness: 7.788473E-4 crashed: true pos: (350.56998,193.24629) normal: 0.448316 time: 0.0
+, fitness: 7.9526764E-4 crashed: true pos: (275.1498,200.18886) normal: 0.45776778 time: 0.0
+, fitness: 8.382673E-4 crashed: true pos: (231.96594,229.12665) normal: 0.482519 time: 0.0
+, fitness: 5.9064734E-4 crashed: true pos: (608.2401,106.277916) normal: 0.3399853 time: 0.0
+, fitness: 5.9469586E-4 crashed: true pos: (610.6671,112.835754) normal: 0.3423157 time: 0.0
+, fitness: 5.5518054E-4 crashed: true pos: (435.42886,-2.24127) normal: 0.31957006 time: 0.0
+, fitness: 5.6181685E-4 crashed: true pos: (176.09415,-0.12630033) normal: 0.32339007 time: 0.0
+, fitness: 7.9564215E-4 crashed: true pos: (274.82703,200.434) normal: 0.45798334 time: 0.0
+, fitness: 7.7810383E-4 crashed: true pos: (480.43436,226.30595) normal: 0.44788805 time: 0.0
+, fitness: 5.667832E-4 crashed: true pos: (298.42947,-2.660122) normal: 0.32624874 time: 0.0
+, fitness: 5.5418647E-4 crashed: true pos: (137.70474,-2.957395) normal: 0.31899792 time: 0.0
+, fitness: 7.926703E-4 crashed: true pos: (334.1612,200.49234) normal: 0.4562727 time: 0.0
+, fitness: 7.776986E-4 crashed: true pos: (480.86755,226.19214) normal: 0.44765475 time: 0.0
+, fitness: 7.8721665E-4 crashed: true pos: (292.76382,194.90303) normal: 0.45313352 time: 0.0
+, fitness: 5.6268804E-4 crashed: true pos: (194.33076,-1.6751828) normal: 0.32389152 time: 0.0
+]Generation: 3
+max fitness: 8.382673E-4
+[fitness: 5.8391417E-4 crashed: true pos: (617.2862,102.3007) normal: 0.32504675 time: 0.0
+, fitness: 8.3879725E-4 crashed: true pos: (231.32747,229.50623) normal: 0.4669322 time: 0.0
+, fitness: 7.9634483E-4 crashed: true pos: (288.65726,200.70547) normal: 0.44330028 time: 0.0
+, fitness: 7.933529E-4 crashed: true pos: (333.94705,200.9087) normal: 0.4416347 time: 0.0
+, fitness: 7.815775E-4 crashed: true pos: (280.926,191.26344) normal: 0.43507975 time: 0.0
+, fitness: 7.9637166E-4 crashed: true pos: (286.07397,200.72563) normal: 0.4433152 time: 0.0
+, fitness: 5.654585E-4 crashed: true pos: (278.01154,-4.3199973) normal: 0.31477305 time: 0.0
+, fitness: 5.6496996E-4 crashed: true pos: (224.03952,-2.1072497) normal: 0.3145011 time: 0.0
+, fitness: 8.2638086E-4 crashed: true pos: (224.92502,223.08894) normal: 0.46002036 time: 0.0
+, fitness: 7.772923E-4 crashed: true pos: (481.30188,226.07796) normal: 0.4326943 time: 0.0
+, fitness: 7.818242E-4 crashed: true pos: (281.0677,191.42297) normal: 0.43521705 time: 0.0
+, fitness: 6.0784223E-4 crashed: true pos: (609.59766,128.87009) normal: 0.33836678 time: 0.0
+, fitness: 7.794863E-4 crashed: true pos: (350.32565,193.6405) normal: 0.43391567 time: 0.0
+, fitness: 5.6339434E-4 crashed: true pos: (288.34702,-6.9822564) normal: 0.313624 time: 0.0
+, fitness: 7.9705054E-4 crashed: true pos: (274.06226,201.3433) normal: 0.4436931 time: 0.0
+, fitness: 5.6336186E-4 crashed: true pos: (288.50604,-7.0230184) normal: 0.31360593 time: 0.0
+, fitness: 7.746837E-4 crashed: true pos: (366.4629,192.65672) normal: 0.43124223 time: 0.0
+, fitness: 7.768853E-4 crashed: true pos: (481.73724,225.9636) normal: 0.43246776 time: 0.0
+, fitness: 6.290001E-4 crashed: true pos: (-0.1675291,136.1081) normal: 0.35014465 time: 0.0
+, fitness: 8.3383854E-4 crashed: true pos: (244.8273,225.23746) normal: 0.46417183 time: 0.0
+, fitness: 7.819443E-4 crashed: true pos: (281.22595,191.49948) normal: 0.43528393 time: 0.0
+, fitness: 5.657683E-4 crashed: true pos: (289.80887,-4.000931) normal: 0.31494552 time: 0.0
+, fitness: 8.3437696E-4 crashed: true pos: (244.81941,225.54901) normal: 0.46447155 time: 0.0
+, fitness: 7.95062E-4 crashed: true pos: (258.65833,200.75095) normal: 0.44258612 time: 0.0
+, fitness: 5.550249E-4 crashed: true pos: (435.43704,-2.4460008) normal: 0.308965 time: 0.0
+]Generation: 4
+max fitness: 8.3879725E-4
+[fitness: 0.0020850308 crashed: true pos: (195.43503,534.9651) normal: 1.0631682 time: 0.0
+, fitness: 7.8208104E-4 crashed: true pos: (281.31525,191.58775) normal: 0.39878726 time: 0.0
+, fitness: 7.8171084E-4 crashed: true pos: (287.27646,191.3024) normal: 0.3985985 time: 0.0
+, fitness: 5.633293E-4 crashed: true pos: (288.66556,-7.0638776) normal: 0.2872446 time: 0.0
+, fitness: 7.821497E-4 crashed: true pos: (281.3601,191.63211) normal: 0.39882228 time: 0.0
+, fitness: 7.8051427E-4 crashed: true pos: (349.9144,194.27115) normal: 0.39798832 time: 0.0
+, fitness: 7.810153E-4 crashed: true pos: (349.82486,194.59146) normal: 0.39824384 time: 0.0
+, fitness: 8.110027E-4 crashed: true pos: (419.46652,227.62735) normal: 0.41353458 time: 0.0
+, fitness: 8.3523593E-4 crashed: true pos: (244.7083,226.05415) normal: 0.42589122 time: 0.0
+, fitness: 8.3546474E-4 crashed: true pos: (244.80203,226.1773) normal: 0.42600787 time: 0.0
+, fitness: 7.842389E-4 crashed: true pos: (302.46045,193.1564) normal: 0.39988756 time: 0.0
+, fitness: 7.979416E-4 crashed: true pos: (273.46176,201.92099) normal: 0.40687466 time: 0.0
+, fitness: 5.6329666E-4 crashed: true pos: (288.82553,-7.1048446) normal: 0.28722796 time: 0.0
+, fitness: 6.330913E-4 crashed: true pos: (613.74036,161.62192) normal: 0.3228166 time: 0.0
+, fitness: 7.971485E-4 crashed: true pos: (287.4614,201.21172) normal: 0.40647024 time: 0.0
+, fitness: 6.047437E-4 crashed: true pos: (611.9522,126.32497) normal: 0.308362 time: 0.0
+, fitness: 7.823568E-4 crashed: true pos: (281.49542,191.76572) normal: 0.39892787 time: 0.0
+, fitness: 7.8228576E-4 crashed: true pos: (358.123,196.50906) normal: 0.39889163 time: 0.0
+, fitness: 7.8614714E-4 crashed: true pos: (320.7519,195.24464) normal: 0.40086058 time: 0.0
+, fitness: 5.5486115E-4 crashed: true pos: (435.42245,-2.6662993) normal: 0.28292662 time: 0.0
+, fitness: 7.797531E-4 crashed: true pos: (332.366,191.9392) normal: 0.39760023 time: 0.0
+, fitness: 7.9747394E-4 crashed: true pos: (287.24298,201.4168) normal: 0.40663618 time: 0.0
+, fitness: 5.6536356E-4 crashed: true pos: (278.8001,-4.4495044) normal: 0.28828186 time: 0.0
+, fitness: 7.8234955E-4 crashed: true pos: (281.60315,191.7596) normal: 0.39892417 time: 0.0
+, fitness: 5.628979E-4 crashed: true pos: (210.29462,-3.3471155) normal: 0.28702462 time: 0.0
+]Generation: 5
+max fitness: 0.0020850308
+[fitness: 5.5470486E-4 crashed: true pos: (435.43066,-2.872102) normal: 0.2965593 time: 0.0
+, fitness: 7.879537E-4 crashed: true pos: (314.67017,196.05704) normal: 0.42126003 time: 0.0
+, fitness: 8.364549E-4 crashed: true pos: (244.82112,226.74466) normal: 0.44719005 time: 0.0
+, fitness: 5.627557E-4 crashed: true pos: (210.26988,-3.525065) normal: 0.30086347 time: 0.0
+, fitness: 5.624602E-4 crashed: true pos: (266.71878,-7.842958) normal: 0.3007055 time: 0.0
+, fitness: 7.9765543E-4 crashed: true pos: (287.12518,201.53107) normal: 0.42644683 time: 0.0
+, fitness: 7.8500004E-4 crashed: true pos: (301.75702,193.63164) normal: 0.41968095 time: 0.0
+, fitness: 8.344377E-4 crashed: true pos: (197.17699,232.31783) normal: 0.4461116 time: 0.0
+, fitness: 7.8046287E-4 crashed: true pos: (376.6781,198.2137) normal: 0.41725528 time: 0.0
+, fitness: 7.809299E-4 crashed: true pos: (332.15665,192.697) normal: 0.41750494 time: 0.0
+, fitness: 7.8423554E-4 crashed: true pos: (285.90326,192.95348) normal: 0.4192722 time: 0.0
+, fitness: 7.985421E-4 crashed: true pos: (286.41788,202.08968) normal: 0.4269209 time: 0.0
+, fitness: 7.860002E-4 crashed: true pos: (301.33966,194.26913) normal: 0.42021567 time: 0.0
+, fitness: 8.148691E-4 crashed: true pos: (407.95776,227.00658) normal: 0.43564972 time: 0.0
+, fitness: 5.6526E-4 crashed: true pos: (279.0321,-4.582171) normal: 0.30220234 time: 0.0
+, fitness: 7.8184786E-4 crashed: true pos: (331.96194,193.2838) normal: 0.41799572 time: 0.0
+, fitness: 7.820131E-4 crashed: true pos: (349.6486,195.2283) normal: 0.41808403 time: 0.0
+, fitness: 7.82477E-4 crashed: true pos: (274.50574,191.98097) normal: 0.41833204 time: 0.0
+, fitness: 7.855388E-4 crashed: true pos: (285.20148,193.80307) normal: 0.419969 time: 0.0
+, fitness: 5.637063E-4 crashed: true pos: (208.8032,-2.1560202) normal: 0.3013717 time: 0.0
+, fitness: 7.812989E-4 crashed: true pos: (287.8784,191.03204) normal: 0.41770223 time: 0.0
+, fitness: 8.2983973E-4 crashed: true pos: (236.70432,223.71638) normal: 0.4436534 time: 0.0
+, fitness: 8.011682E-4 crashed: true pos: (297.71448,203.82356) normal: 0.42832488 time: 0.0
+, fitness: 7.825555E-4 crashed: true pos: (281.78204,191.89195) normal: 0.418374 time: 0.0
+, fitness: 7.8251987E-4 crashed: true pos: (349.5583,195.551) normal: 0.418355 time: 0.0
+]Generation: 6
+max fitness: 8.364549E-4
+[fitness: 7.8263006E-4 crashed: true pos: (281.84125,191.93993) normal: 0.4145025 time: 0.0
+, fitness: 7.87184E-4 crashed: true pos: (300.7011,195.01833) normal: 0.41691437 time: 0.0
+, fitness: 8.146228E-4 crashed: true pos: (408.18298,226.9103) normal: 0.43144673 time: 0.0
+, fitness: 7.8155537E-4 crashed: true pos: (287.44696,191.20035) normal: 0.41393334 time: 0.0
+, fitness: 5.6478527E-4 crashed: true pos: (212.52185,-1.2002907) normal: 0.29912588 time: 0.0
+, fitness: 7.7612E-4 crashed: true pos: (350.8176,191.45834) normal: 0.4110546 time: 0.0
+, fitness: 7.8355224E-4 crashed: true pos: (349.36282,196.20576) normal: 0.4149909 time: 0.0
+, fitness: 8.3149935E-4 crashed: true pos: (245.73141,223.80188) normal: 0.440385 time: 0.0
+, fitness: 7.855389E-4 crashed: true pos: (339.3765,196.39394) normal: 0.4160431 time: 0.0
+, fitness: 5.6375284E-4 crashed: true pos: (208.87663,-2.105238) normal: 0.29857907 time: 0.0
+, fitness: 7.81808E-4 crashed: true pos: (287.21616,191.36601) normal: 0.4140671 time: 0.0
+, fitness: 7.971457E-4 crashed: true pos: (287.26477,201.21024) normal: 0.4221904 time: 0.0
+, fitness: 7.8435254E-4 crashed: true pos: (375.73737,200.62921) normal: 0.41541475 time: 0.0
+, fitness: 7.8646897E-4 crashed: true pos: (279.36407,194.47096) normal: 0.4165357 time: 0.0
+, fitness: 7.892795E-4 crashed: true pos: (314.12305,196.88237) normal: 0.41802424 time: 0.0
+, fitness: 7.861853E-4 crashed: true pos: (280.49176,194.2695) normal: 0.41638547 time: 0.0
+, fitness: 8.377778E-4 crashed: true pos: (196.30399,234.43436) normal: 0.44371027 time: 0.0
+, fitness: 7.812939E-4 crashed: true pos: (349.9684,194.7929) normal: 0.41379482 time: 0.0
+, fitness: 7.859249E-4 crashed: true pos: (331.07407,195.87152) normal: 0.41624755 time: 0.0
+, fitness: 7.8302535E-4 crashed: true pos: (296.78506,192.23636) normal: 0.41471183 time: 0.0
+, fitness: 5.804436E-4 crashed: true pos: (608.5242,92.94933) normal: 0.30741897 time: 0.0
+, fitness: 7.8701833E-4 crashed: true pos: (330.9506,196.57068) normal: 0.41682664 time: 0.0
+, fitness: 7.8278215E-4 crashed: true pos: (281.95947,192.03786) normal: 0.41458306 time: 0.0
+, fitness: 7.841473E-4 crashed: true pos: (296.59088,192.96408) normal: 0.41530606 time: 0.0
+, fitness: 5.622969E-4 crashed: true pos: (267.12875,-8.061781) normal: 0.29780796 time: 0.0
+]Generation: 7
+max fitness: 8.377778E-4
+[fitness: 5.7334086E-4 crashed: true pos: (610.84106,84.52562) normal: 0.3059576 time: 0.0
+, fitness: 7.8539096E-4 crashed: true pos: (286.2845,193.70238) normal: 0.419116 time: 0.0
+, fitness: 7.865007E-4 crashed: true pos: (304.9631,194.70113) normal: 0.4197082 time: 0.0
+, fitness: 8.3332113E-4 crashed: true pos: (231.83798,226.28986) normal: 0.44469342 time: 0.0
+, fitness: 7.890046E-4 crashed: true pos: (330.6865,197.83241) normal: 0.42104438 time: 0.0
+, fitness: 8.3404535E-4 crashed: true pos: (245.59378,225.28827) normal: 0.44507992 time: 0.0
+, fitness: 7.86601E-4 crashed: true pos: (286.02435,194.48682) normal: 0.4197617 time: 0.0
+, fitness: 7.869584E-4 crashed: true pos: (319.21152,195.67308) normal: 0.41995242 time: 0.0
+, fitness: 7.9286966E-4 crashed: true pos: (314.04144,199.176) normal: 0.4231069 time: 0.0
+, fitness: 7.78125E-4 crashed: true pos: (350.3126,192.73445) normal: 0.4152386 time: 0.0
+, fitness: 7.8778033E-4 crashed: true pos: (278.76752,195.3282) normal: 0.42039102 time: 0.0
+, fitness: 7.9020706E-4 crashed: true pos: (279.6136,196.87306) normal: 0.42168605 time: 0.0
+, fitness: 7.955931E-4 crashed: true pos: (283.0768,200.25455) normal: 0.42456025 time: 0.0
+, fitness: 5.638574E-4 crashed: true pos: (207.11563,-1.7730122) normal: 0.30089682 time: 0.0
+, fitness: 7.894187E-4 crashed: true pos: (283.67767,196.31645) normal: 0.42126533 time: 0.0
+, fitness: 7.810818E-4 crashed: true pos: (335.28705,193.0776) normal: 0.41681644 time: 0.0
+, fitness: 7.827707E-4 crashed: true pos: (349.59784,195.72086) normal: 0.4177177 time: 0.0
+, fitness: 8.143758E-4 crashed: true pos: (408.40887,226.81375) normal: 0.43458346 time: 0.0
+, fitness: 7.954892E-4 crashed: true pos: (310.80032,200.68196) normal: 0.42450482 time: 0.0
+, fitness: 7.882124E-4 crashed: true pos: (285.78238,195.5274) normal: 0.42062163 time: 0.0
+, fitness: 7.9167885E-4 crashed: true pos: (330.51392,199.53644) normal: 0.42247146 time: 0.0
+, fitness: 5.688408E-4 crashed: true pos: (278.69016,-0.12276745) normal: 0.30355617 time: 0.0
+, fitness: 5.685485E-4 crashed: true pos: (272.59555,-0.3772602) normal: 0.3034002 time: 0.0
+, fitness: 7.9288235E-4 crashed: true pos: (320.98016,199.5907) normal: 0.42311367 time: 0.0
+, fitness: 5.8233395E-4 crashed: true pos: (608.72046,95.5811) normal: 0.31075665 time: 0.0
+]Generation: 8
+max fitness: 8.3404535E-4
+[fitness: 7.8906526E-4 crashed: true pos: (278.1969,196.16588) normal: 0.41659442 time: 0.0
+, fitness: 7.8182877E-4 crashed: true pos: (335.3179,193.57181) normal: 0.41277382 time: 0.0
+, fitness: 7.8373356E-4 crashed: true pos: (322.29913,193.77625) normal: 0.41377947 time: 0.0
+, fitness: 6.57966E-4 crashed: true pos: (615.7064,190.95268) normal: 0.34737933 time: 0.0
+, fitness: 7.923317E-4 crashed: true pos: (330.47333,199.95079) normal: 0.41831896 time: 0.0
+, fitness: 5.6856364E-4 crashed: true pos: (272.7575,-0.36204004) normal: 0.3001785 time: 0.0
+, fitness: 7.9042464E-4 crashed: true pos: (282.66595,196.97104) normal: 0.41731212 time: 0.0
+, fitness: 7.8872836E-4 crashed: true pos: (285.6307,195.86008) normal: 0.41641653 time: 0.0
+, fitness: 7.869666E-4 crashed: true pos: (315.60507,195.46938) normal: 0.4154864 time: 0.0
+, fitness: 7.8200246E-4 crashed: true pos: (349.94318,195.25717) normal: 0.41286555 time: 0.0
+, fitness: 7.788746E-4 crashed: true pos: (348.52194,193.01718) normal: 0.41121417 time: 0.0
+, fitness: 8.1412814E-4 crashed: true pos: (408.63516,226.71692) normal: 0.42982662 time: 0.0
+, fitness: 7.823325E-4 crashed: true pos: (335.34146,193.90492) normal: 0.41303977 time: 0.0
+, fitness: 7.8887516E-4 crashed: true pos: (285.67426,195.95427) normal: 0.41649404 time: 0.0
+, fitness: 7.8894553E-4 crashed: true pos: (285.66406,195.99951) normal: 0.4165312 time: 0.0
+, fitness: 5.673067E-4 crashed: true pos: (242.15591,-0.5939989) normal: 0.2995149 time: 0.0
+, fitness: 7.826545E-4 crashed: true pos: (335.31747,194.1139) normal: 0.4132098 time: 0.0
+, fitness: 8.1388E-4 crashed: true pos: (408.8621,226.6199) normal: 0.42969558 time: 0.0
+, fitness: 5.6576944E-4 crashed: true pos: (326.70624,-2.9413767) normal: 0.29870328 time: 0.0
+, fitness: 7.8875874E-4 crashed: true pos: (285.6843,195.87935) normal: 0.4164326 time: 0.0
+, fitness: 7.887727E-4 crashed: true pos: (285.68756,195.8883) normal: 0.41643995 time: 0.0
+, fitness: 7.887867E-4 crashed: true pos: (285.69095,195.89731) normal: 0.41644734 time: 0.0
+, fitness: 7.883013E-4 crashed: true pos: (305.9324,195.89676) normal: 0.41619107 time: 0.0
+, fitness: 7.9302135E-4 crashed: true pos: (315.77017,199.365) normal: 0.41868305 time: 0.0
+, fitness: 7.888347E-4 crashed: true pos: (285.79755,195.92767) normal: 0.41647267 time: 0.0
+]Generation: 9
+max fitness: 8.1412814E-4
+[fitness: 7.90623E-4 crashed: true pos: (282.7968,197.09662) normal: 0.40220693 time: 0.0
+, fitness: 7.8302925E-4 crashed: true pos: (335.34293,194.36191) normal: 0.39834383 time: 0.0
+, fitness: 7.9837587E-4 crashed: true pos: (322.56845,203.1769) normal: 0.40615097 time: 0.0
+, fitness: 8.160014E-4 crashed: true pos: (413.1365,229.04613) normal: 0.41511747 time: 0.0
+, fitness: 7.9434353E-4 crashed: true pos: (330.4972,201.23601) normal: 0.40409964 time: 0.0
+, fitness: 8.43523E-4 crashed: true pos: (244.96205,230.75543) normal: 0.4291183 time: 0.0
+, fitness: 7.786935E-4 crashed: true pos: (383.626,198.29828) normal: 0.39613813 time: 0.0
+, fitness: 7.893542E-4 crashed: true pos: (285.7692,196.26157) normal: 0.4015615 time: 0.0
+, fitness: 7.862354E-4 crashed: true pos: (256.42038,195.22754) normal: 0.39997485 time: 0.0
+, fitness: 7.8992755E-4 crashed: true pos: (305.95694,196.94295) normal: 0.40185314 time: 0.0
+, fitness: 7.8565325E-4 crashed: true pos: (350.9635,197.77786) normal: 0.3996787 time: 0.0
+, fitness: 7.8819296E-4 crashed: true pos: (300.22137,195.65723) normal: 0.40097073 time: 0.0
+, fitness: 7.8084006E-4 crashed: true pos: (360.52206,195.89069) normal: 0.39723012 time: 0.0
+, fitness: 5.642366E-4 crashed: true pos: (327.2422,-4.8355055) normal: 0.2870393 time: 0.0
+, fitness: 7.9032994E-4 crashed: true pos: (305.97964,197.20175) normal: 0.40205783 time: 0.0
+, fitness: 7.788204E-4 crashed: true pos: (373.94467,196.64478) normal: 0.39620268 time: 0.0
+, fitness: 8.134108E-4 crashed: true pos: (409.6525,226.52847) normal: 0.41379958 time: 0.0
+, fitness: 8.1316056E-4 crashed: true pos: (409.88193,226.43095) normal: 0.4136723 time: 0.0
+, fitness: 7.892731E-4 crashed: true pos: (285.90524,196.20892) normal: 0.4015202 time: 0.0
+, fitness: 7.955176E-4 crashed: true pos: (330.61914,201.99219) normal: 0.4046969 time: 0.0
+, fitness: 7.8913756E-4 crashed: true pos: (285.8067,196.12225) normal: 0.40145126 time: 0.0
+, fitness: 7.9947786E-4 crashed: true pos: (433.86008,224.40677) normal: 0.40671158 time: 0.0
+, fitness: 8.1268116E-4 crashed: true pos: (410.3818,226.25949) normal: 0.4134284 time: 0.0
+, fitness: 8.059242E-4 crashed: true pos: (417.40308,223.8414) normal: 0.40999097 time: 0.0
+, fitness: 7.803592E-4 crashed: true pos: (348.1142,193.95277) normal: 0.39698553 time: 0.0
+]Generation: 10
+max fitness: 8.43523E-4
+[fitness: 8.062271E-4 crashed: true pos: (430.35092,227.7219) normal: 0.40928733 time: 0.0
+, fitness: 7.9056714E-4 crashed: true pos: (305.8606,197.34946) normal: 0.40133741 time: 0.0
+, fitness: 8.4439525E-4 crashed: true pos: (244.8843,231.25438) normal: 0.42866367 time: 0.0
+, fitness: 8.1199687E-4 crashed: true pos: (411.06845,226.00786) normal: 0.41221637 time: 0.0
+, fitness: 5.6325726E-4 crashed: true pos: (354.11542,-4.07073) normal: 0.28594184 time: 0.0
+, fitness: 8.0059405E-4 crashed: true pos: (299.4426,203.50204) normal: 0.40642765 time: 0.0
+, fitness: 7.892013E-4 crashed: true pos: (277.2023,196.27347) normal: 0.400644 time: 0.0
+, fitness: 7.9563673E-4 crashed: true pos: (330.392,202.04848) normal: 0.40391102 time: 0.0
+, fitness: 7.9374155E-4 crashed: true pos: (269.91284,199.3823) normal: 0.40294892 time: 0.0
+, fitness: 8.1167667E-4 crashed: true pos: (411.2006,225.84131) normal: 0.41205382 time: 0.0
+, fitness: 7.901165E-4 crashed: true pos: (282.5978,196.77443) normal: 0.40110862 time: 0.0
+, fitness: 7.905783E-4 crashed: true pos: (305.72964,197.35197) normal: 0.4013431 time: 0.0
+, fitness: 7.87987E-4 crashed: true pos: (285.75967,195.38237) normal: 0.4000276 time: 0.0
+, fitness: 7.905312E-4 crashed: true pos: (305.8255,197.32523) normal: 0.4013192 time: 0.0
+, fitness: 7.8940304E-4 crashed: true pos: (282.8547,196.31407) normal: 0.40074646 time: 0.0
+, fitness: 7.858976E-4 crashed: true pos: (300.3323,194.17726) normal: 0.3989669 time: 0.0
+, fitness: 8.1136875E-4 crashed: true pos: (411.33344,225.68245) normal: 0.41189754 time: 0.0
+, fitness: 7.898867E-4 crashed: true pos: (334.20386,198.71048) normal: 0.400992 time: 0.0
+, fitness: 8.437883E-4 crashed: true pos: (229.7158,232.54413) normal: 0.42835557 time: 0.0
+, fitness: 7.812333E-4 crashed: true pos: (360.93854,196.2109) normal: 0.39659902 time: 0.0
+, fitness: 7.90567E-4 crashed: true pos: (306.1332,197.35907) normal: 0.4013374 time: 0.0
+, fitness: 7.885869E-4 crashed: true pos: (283.20264,195.78624) normal: 0.40033215 time: 0.0
+, fitness: 7.8657636E-4 crashed: true pos: (286.31375,194.46983) normal: 0.39931148 time: 0.0
+, fitness: 7.8633835E-4 crashed: true pos: (286.38815,194.3157) normal: 0.39919063 time: 0.0
+, fitness: 7.781644E-4 crashed: true pos: (378.90134,197.07124) normal: 0.39504108 time: 0.0
+]Generation: 11
+max fitness: 8.4439525E-4
+[fitness: 7.8573724E-4 crashed: true pos: (465.01724,225.69162) normal: 0.39453584 time: 0.0
+, fitness: 7.86003E-4 crashed: true pos: (286.4915,194.09831) normal: 0.3946693 time: 0.0
+, fitness: 8.433863E-4 crashed: true pos: (245.57147,230.62308) normal: 0.4234827 time: 0.0
+, fitness: 7.8566576E-4 crashed: true pos: (286.62967,193.87952) normal: 0.39449996 time: 0.0
+, fitness: 7.8999106E-4 crashed: true pos: (306.51736,197.00385) normal: 0.39667177 time: 0.0
+, fitness: 8.0000126E-4 crashed: true pos: (147.04553,223.28023) normal: 0.4016981 time: 0.0
+, fitness: 7.899385E-4 crashed: true pos: (306.6173,196.9738) normal: 0.3966454 time: 0.0
+, fitness: 8.107349E-4 crashed: true pos: (411.53485,225.33641) normal: 0.40708774 time: 0.0
+, fitness: 7.8665355E-4 crashed: true pos: (283.8194,194.5341) normal: 0.39499596 time: 0.0
+, fitness: 8.104713E-4 crashed: true pos: (410.29053,224.8507) normal: 0.40695536 time: 0.0
+, fitness: 7.89702E-4 crashed: true pos: (306.6412,196.82297) normal: 0.39652663 time: 0.0
+, fitness: 8.425358E-4 crashed: true pos: (245.82043,230.1201) normal: 0.42305565 time: 0.0
+, fitness: 7.857136E-4 crashed: true pos: (283.8233,193.92577) normal: 0.394524 time: 0.0
+, fitness: 7.920296E-4 crashed: true pos: (270.57776,198.26898) normal: 0.39769536 time: 0.0
+, fitness: 7.88203E-4 crashed: true pos: (260.66916,196.25299) normal: 0.39577395 time: 0.0
+, fitness: 7.888271E-4 crashed: true pos: (306.57782,196.25847) normal: 0.39608732 time: 0.0
+, fitness: 7.8434235E-4 crashed: true pos: (283.82257,193.03569) normal: 0.39383546 time: 0.0
+, fitness: 8.1034447E-4 crashed: true pos: (411.68417,225.12955) normal: 0.40689167 time: 0.0
+, fitness: 8.101048E-4 crashed: true pos: (411.74774,224.9951) normal: 0.40677133 time: 0.0
+, fitness: 7.9379324E-4 crashed: true pos: (300.65845,199.24945) normal: 0.39858097 time: 0.0
+, fitness: 7.8822544E-4 crashed: true pos: (306.56375,195.87059) normal: 0.39578524 time: 0.0
+, fitness: 7.8816473E-4 crashed: true pos: (306.55225,195.83109) normal: 0.39575475 time: 0.0
+, fitness: 7.905561E-4 crashed: true pos: (270.27682,197.33757) normal: 0.3969555 time: 0.0
+, fitness: 7.861427E-4 crashed: true pos: (268.82312,194.54803) normal: 0.39473945 time: 0.0
+, fitness: 7.882162E-4 crashed: true pos: (303.956,195.77592) normal: 0.39578056 time: 0.0
+]Generation: 12
+max fitness: 8.433863E-4
+[fitness: 7.8542245E-4 crashed: true pos: (268.83044,194.08084) normal: 0.39053452 time: 0.0
+, fitness: 7.9089415E-4 crashed: true pos: (346.19357,200.60242) normal: 0.3932552 time: 0.0
+, fitness: 7.8474474E-4 crashed: true pos: (268.9224,193.63728) normal: 0.39019752 time: 0.0
+, fitness: 9.60206E-4 crashed: true pos: (-6.7962875,408.6672) normal: 0.47744188 time: 0.0
+, fitness: 8.100245E-4 crashed: true pos: (410.69928,224.67441) normal: 0.40276736 time: 0.0
+, fitness: 8.054802E-4 crashed: true pos: (137.342,229.80666) normal: 0.40050778 time: 0.0
+, fitness: 7.7659526E-4 crashed: true pos: (346.12076,191.22092) normal: 0.38614538 time: 0.0
+, fitness: 7.8891724E-4 crashed: true pos: (270.1438,196.29047) normal: 0.3922722 time: 0.0
+, fitness: 8.0793555E-4 crashed: true pos: (416.00266,224.7444) normal: 0.4017287 time: 0.0
+, fitness: 7.865464E-4 crashed: true pos: (306.4353,194.78192) normal: 0.39109337 time: 0.0
+, fitness: 7.8857713E-4 crashed: true pos: (269.99323,196.077) normal: 0.39210314 time: 0.0
+, fitness: 8.0878945E-4 crashed: true pos: (412.1561,224.27138) normal: 0.40215325 time: 0.0
+, fitness: 8.0895174E-4 crashed: true pos: (409.8948,223.79297) normal: 0.40223393 time: 0.0
+, fitness: 8.3134393E-4 crashed: true pos: (231.4054,225.19138) normal: 0.41336802 time: 0.0
+, fitness: 7.860599E-4 crashed: true pos: (306.37222,194.46466) normal: 0.39085147 time: 0.0
+, fitness: 7.886576E-4 crashed: true pos: (300.80136,195.97057) normal: 0.39214313 time: 0.0
+, fitness: 7.9204596E-4 crashed: true pos: (314.3851,198.6685) normal: 0.39382792 time: 0.0
+, fitness: 8.082983E-4 crashed: true pos: (412.28433,223.99419) normal: 0.40190905 time: 0.0
+, fitness: 7.855071E-4 crashed: true pos: (306.35703,194.10576) normal: 0.3905766 time: 0.0
+, fitness: 8.235356E-4 crashed: true pos: (193.36786,226.59724) normal: 0.40948546 time: 0.0
+, fitness: 7.854443E-4 crashed: true pos: (303.6891,193.97585) normal: 0.39054537 time: 0.0
+, fitness: 7.9043803E-4 crashed: true pos: (317.11603,197.78976) normal: 0.3930284 time: 0.0
+, fitness: 7.9481537E-4 crashed: true pos: (266.15622,200.21274) normal: 0.39520496 time: 0.0
+, fitness: 8.36353E-4 crashed: true pos: (246.01279,226.57964) normal: 0.41585863 time: 0.0
+, fitness: 7.8589015E-4 crashed: true pos: (277.8514,194.12422) normal: 0.3907671 time: 0.0
+]Generation: 13
+max fitness: 9.60206E-4
+[fitness: 8.0805464E-4 crashed: true pos: (412.34943,223.85692) normal: 0.40851814 time: 0.0
+, fitness: 7.7938876E-4 crashed: true pos: (472.55264,224.1077) normal: 0.39402586 time: 0.0
+, fitness: 8.201461E-4 crashed: true pos: (200.93721,223.11572) normal: 0.41463107 time: 0.0
+, fitness: 8.073866E-4 crashed: true pos: (412.5039,223.47385) normal: 0.4081804 time: 0.0
+, fitness: 7.840402E-4 crashed: true pos: (264.5345,193.362) normal: 0.39637744 time: 0.0
+, fitness: 7.848614E-4 crashed: true pos: (306.21725,193.6815) normal: 0.3967926 time: 0.0
+, fitness: 8.140943E-4 crashed: true pos: (410.68396,227.2194) normal: 0.41157153 time: 0.0
+, fitness: 7.8740634E-4 crashed: true pos: (347.13986,198.45726) normal: 0.39807922 time: 0.0
+, fitness: 7.97685E-4 crashed: true pos: (285.8358,201.55359) normal: 0.40327567 time: 0.0
+, fitness: 7.831215E-4 crashed: true pos: (303.36703,192.45476) normal: 0.39591298 time: 0.0
+, fitness: 7.8686565E-4 crashed: true pos: (347.13385,198.10509) normal: 0.39780587 time: 0.0
+, fitness: 7.9026714E-4 crashed: true pos: (266.1565,197.3136) normal: 0.3995255 time: 0.0
+, fitness: 7.8338897E-4 crashed: true pos: (269.13974,192.74637) normal: 0.3960482 time: 0.0
+, fitness: 7.7112817E-4 crashed: true pos: (375.6981,191.74663) normal: 0.38984966 time: 0.0
+, fitness: 7.811481E-4 crashed: true pos: (300.85324,191.09453) normal: 0.3949153 time: 0.0
+, fitness: 7.8137737E-4 crashed: true pos: (305.96567,191.39879) normal: 0.39503124 time: 0.0
+, fitness: 7.821017E-4 crashed: true pos: (268.97232,191.9116) normal: 0.3953974 time: 0.0
+, fitness: 7.809518E-4 crashed: true pos: (305.83853,191.11523) normal: 0.39481607 time: 0.0
+, fitness: 7.8699697E-4 crashed: true pos: (266.13022,195.20955) normal: 0.39787227 time: 0.0
+, fitness: 8.0885564E-4 crashed: true pos: (422.90756,227.2314) normal: 0.40892306 time: 0.0
+, fitness: 7.972948E-4 crashed: true pos: (303.90558,201.55573) normal: 0.40307838 time: 0.0
+, fitness: 8.000928E-4 crashed: true pos: (126.65735,229.80812) normal: 0.40449294 time: 0.0
+, fitness: 7.973951E-4 crashed: true pos: (302.2019,201.56775) normal: 0.40312913 time: 0.0
+, fitness: 7.8484084E-4 crashed: true pos: (266.0936,193.81352) normal: 0.3967822 time: 0.0
+, fitness: 7.812532E-4 crashed: true pos: (313.78964,191.65204) normal: 0.39496845 time: 0.0
+]Generation: 14
+max fitness: 8.201461E-4
+[fitness: 8.085038E-4 crashed: true pos: (422.99838,227.03354) normal: 0.40777296 time: 0.0
+, fitness: 7.8079884E-4 crashed: true pos: (313.71097,191.34976) normal: 0.3937998 time: 0.0
+, fitness: 7.828425E-4 crashed: true pos: (347.6234,195.53218) normal: 0.39483052 time: 0.0
+, fitness: 7.7992864E-4 crashed: true pos: (380.60556,198.56242) normal: 0.39336088 time: 0.0
+, fitness: 8.113385E-4 crashed: true pos: (412.1985,225.8878) normal: 0.4092026 time: 0.0
+, fitness: 8.1715337E-4 crashed: true pos: (179.79668,225.60454) normal: 0.4121354 time: 0.0
+, fitness: 8.1345165E-4 crashed: true pos: (411.12518,226.9325) normal: 0.41026843 time: 0.0
+, fitness: 7.82274E-4 crashed: true pos: (347.6209,195.15799) normal: 0.39454377 time: 0.0
+, fitness: 8.1603933E-4 crashed: true pos: (185.32735,223.70117) normal: 0.4115735 time: 0.0
+, fitness: 7.8879966E-4 crashed: true pos: (264.75424,196.43349) normal: 0.39783505 time: 0.0
+, fitness: 7.7542744E-4 crashed: true pos: (381.6393,195.72566) normal: 0.3910907 time: 0.0
+, fitness: 7.6998764E-4 crashed: true pos: (380.26056,191.76944) normal: 0.3883471 time: 0.0
+, fitness: 7.8133837E-4 crashed: true pos: (347.67642,194.54802) normal: 0.3940719 time: 0.0
+, fitness: 7.874902E-4 crashed: true pos: (310.14545,195.54013) normal: 0.39717463 time: 0.0
+, fitness: 7.8932836E-4 crashed: true pos: (321.41104,197.34264) normal: 0.3981017 time: 0.0
+, fitness: 7.8737503E-4 crashed: true pos: (264.7435,195.51543) normal: 0.39711654 time: 0.0
+, fitness: 7.9076993E-4 crashed: true pos: (302.60187,197.37466) normal: 0.39882874 time: 0.0
+, fitness: 8.0650765E-4 crashed: true pos: (419.20294,224.70345) normal: 0.40676618 time: 0.0
+, fitness: 7.866716E-4 crashed: true pos: (264.82986,195.0568) normal: 0.39676175 time: 0.0
+, fitness: 8.1037165E-4 crashed: true pos: (412.33624,225.31584) normal: 0.40871498 time: 0.0
+, fitness: 7.9043704E-4 crashed: true pos: (287.9792,196.95084) normal: 0.39866087 time: 0.0
+, fitness: 7.833276E-4 crashed: true pos: (295.05206,192.40668) normal: 0.3950752 time: 0.0
+, fitness: 7.7168294E-4 crashed: true pos: (376.5211,192.26697) normal: 0.38920218 time: 0.0
+, fitness: 7.93983E-4 crashed: true pos: (303.88702,199.46143) normal: 0.4004493 time: 0.0
+, fitness: 8.2147535E-4 crashed: true pos: (393.16132,227.56255) normal: 0.4143152 time: 0.0
+]Generation: 15
+max fitness: 8.2147535E-4
+[fitness: 8.1001426E-4 crashed: true pos: (412.3419,225.09227) normal: 0.40804815 time: 0.0
+, fitness: 7.866123E-4 crashed: true pos: (322.02194,195.6297) normal: 0.39625928 time: 0.0
+, fitness: 8.032735E-4 crashed: true pos: (298.40375,205.14629) normal: 0.40465248 time: 0.0
+, fitness: 7.9991465E-4 crashed: true pos: (431.0286,223.83801) normal: 0.40296042 time: 0.0
+, fitness: 7.7159854E-4 crashed: true pos: (382.38724,193.2608) normal: 0.38869604 time: 0.0
+, fitness: 7.8222353E-4 crashed: true pos: (311.55908,192.1802) normal: 0.39404842 time: 0.0
+, fitness: 7.751887E-4 crashed: true pos: (380.9038,195.42891) normal: 0.3905046 time: 0.0
+, fitness: 7.836323E-4 crashed: true pos: (265.37338,193.05824) normal: 0.3947581 time: 0.0
+, fitness: 7.8080455E-4 crashed: true pos: (311.90027,191.26573) normal: 0.3933336 time: 0.0
+, fitness: 7.920662E-4 crashed: true pos: (304.2077,198.25186) normal: 0.39900672 time: 0.0
+, fitness: 7.82652E-4 crashed: true pos: (265.50156,192.41263) normal: 0.39426428 time: 0.0
+, fitness: 8.045042E-4 crashed: true pos: (425.26602,225.12292) normal: 0.40527242 time: 0.0
+, fitness: 8.2047516E-4 crashed: true pos: (393.34415,226.99512) normal: 0.41331786 time: 0.0
+, fitness: 7.7649305E-4 crashed: true pos: (348.47824,191.42592) normal: 0.39116168 time: 0.0
+, fitness: 7.762681E-4 crashed: true pos: (348.50116,191.27827) normal: 0.39104834 time: 0.0
+, fitness: 7.760427E-4 crashed: true pos: (348.52393,191.13026) normal: 0.3909348 time: 0.0
+, fitness: 8.091965E-4 crashed: true pos: (412.40402,224.59279) normal: 0.40763617 time: 0.0
+, fitness: 8.126981E-4 crashed: true pos: (411.44162,226.54337) normal: 0.40940014 time: 0.0
+, fitness: 8.1376196E-4 crashed: true pos: (171.5783,225.44193) normal: 0.40993604 time: 0.0
+, fitness: 8.0875395E-4 crashed: true pos: (412.44604,224.3242) normal: 0.40741324 time: 0.0
+, fitness: 7.8678364E-4 crashed: true pos: (361.05124,199.87672) normal: 0.3963456 time: 0.0
+, fitness: 8.19712E-4 crashed: true pos: (393.45862,226.55556) normal: 0.4129334 time: 0.0
+, fitness: 7.9222565E-4 crashed: true pos: (350.59366,201.9883) normal: 0.39908704 time: 0.0
+, fitness: 7.818459E-4 crashed: true pos: (323.37878,192.61499) normal: 0.3938582 time: 0.0
+, fitness: 8.042076E-4 crashed: true pos: (419.64273,223.35318) normal: 0.405123 time: 0.0
+]Generation: 16
+max fitness: 8.2047516E-4
+[fitness: 8.0189493E-4 crashed: true pos: (298.79602,204.29834) normal: 0.40557683 time: 0.0
+, fitness: 7.971689E-4 crashed: true pos: (435.6466,223.43837) normal: 0.4031865 time: 0.0
+, fitness: 7.9157023E-4 crashed: true pos: (350.7648,201.58835) normal: 0.40035486 time: 0.0
+, fitness: 7.96783E-4 crashed: true pos: (435.73456,223.21118) normal: 0.40299132 time: 0.0
+, fitness: 8.3314016E-4 crashed: true pos: (399.71707,236.06729) normal: 0.4213798 time: 0.0
+, fitness: 7.9124066E-4 crashed: true pos: (350.84668,201.38646) normal: 0.40018815 time: 0.0
+, fitness: 7.8058627E-4 crashed: true pos: (323.78406,191.81555) normal: 0.39479944 time: 0.0
+, fitness: 8.0873E-4 crashed: true pos: (416.4107,225.35739) normal: 0.40903383 time: 0.0
+, fitness: 8.026908E-4 crashed: true pos: (383.28027,213.86978) normal: 0.40597934 time: 0.0
+, fitness: 5.6214014E-4 crashed: true pos: (376.43683,-3.0493155) normal: 0.28431532 time: 0.0
+, fitness: 8.0135063E-4 crashed: true pos: (298.92752,203.96234) normal: 0.4053015 time: 0.0
+, fitness: 7.981406E-4 crashed: true pos: (325.50314,203.24036) normal: 0.40367797 time: 0.0
+, fitness: 8.1757153E-4 crashed: true pos: (385.33633,223.52644) normal: 0.4135056 time: 0.0
+, fitness: 8.0094615E-4 crashed: true pos: (383.65994,212.83788) normal: 0.40509695 time: 0.0
+, fitness: 7.970057E-4 crashed: true pos: (325.77243,202.54495) normal: 0.40310398 time: 0.0
+, fitness: 8.008743E-4 crashed: true pos: (299.1083,203.66937) normal: 0.40506062 time: 0.0
+, fitness: 7.886414E-4 crashed: true pos: (351.40594,199.77747) normal: 0.39887354 time: 0.0
+, fitness: 7.958984E-4 crashed: true pos: (439.33273,223.74875) normal: 0.4025439 time: 0.0
+, fitness: 7.883848E-4 crashed: true pos: (351.45456,199.61717) normal: 0.39874375 time: 0.0
+, fitness: 8.1286114E-4 crashed: true pos: (165.61061,226.37393) normal: 0.41112322 time: 0.0
+, fitness: 8.0671336E-4 crashed: true pos: (412.5486,223.05832) normal: 0.40801382 time: 0.0
+, fitness: 8.168961E-4 crashed: true pos: (381.42453,222.33672) normal: 0.41316396 time: 0.0
+, fitness: 7.829104E-4 crashed: true pos: (278.81082,192.16846) normal: 0.39597493 time: 0.0
+, fitness: 8.118589E-4 crashed: true pos: (402.32346,223.75069) normal: 0.41061634 time: 0.0
+, fitness: 7.8571826E-4 crashed: true pos: (320.1406,194.92725) normal: 0.39739507 time: 0.0
+]Generation: 17
+max fitness: 8.3314016E-4
+[fitness: 8.1570714E-4 crashed: true pos: (381.56497,221.63696) normal: 0.41147798 time: 0.0
+, fitness: 7.93912E-4 crashed: true pos: (326.62283,200.64836) normal: 0.40048358 time: 0.0
+, fitness: 8.1484613E-4 crashed: true pos: (381.72897,221.141) normal: 0.41104364 time: 0.0
+, fitness: 8.2103256E-4 crashed: true pos: (383.23737,225.20789) normal: 0.41416436 time: 0.0
+, fitness: 8.176312E-4 crashed: true pos: (382.97043,223.08856) normal: 0.41244859 time: 0.0
+, fitness: 7.997526E-4 crashed: true pos: (299.45233,202.97647) normal: 0.40342984 time: 0.0
+, fitness: 7.9820526E-4 crashed: true pos: (433.44238,223.44601) normal: 0.40264928 time: 0.0
+, fitness: 8.306867E-4 crashed: true pos: (400.2133,234.72803) normal: 0.41903433 time: 0.0
+, fitness: 7.921463E-4 crashed: true pos: (327.13705,199.56172) normal: 0.39959288 time: 0.0
+, fitness: 7.9588284E-4 crashed: true pos: (300.76797,200.5757) normal: 0.40147775 time: 0.0
+, fitness: 7.9155026E-4 crashed: true pos: (327.2918,199.19237) normal: 0.39929223 time: 0.0
+, fitness: 5.450374E-4 crashed: true pos: (496.45236,-0.66814065) normal: 0.27494046 time: 0.0
+, fitness: 7.9110876E-4 crashed: true pos: (327.38452,198.91676) normal: 0.3990695 time: 0.0
+, fitness: 8.273322E-4 crashed: true pos: (387.59586,229.88768) normal: 0.4173422 time: 0.0
+, fitness: 7.9923385E-4 crashed: true pos: (299.6384,202.65608) normal: 0.40316814 time: 0.0
+, fitness: 7.840242E-4 crashed: true pos: (320.6802,193.8594) normal: 0.39549574 time: 0.0
+, fitness: 8.1102294E-4 crashed: true pos: (382.76804,218.9861) normal: 0.40911508 time: 0.0
+, fitness: 8.03479E-4 crashed: true pos: (146.45255,225.71176) normal: 0.40530956 time: 0.0
+, fitness: 7.8925473E-4 crashed: true pos: (327.91428,197.76698) normal: 0.39813426 time: 0.0
+, fitness: 8.096764E-4 crashed: true pos: (383.10867,218.21698) normal: 0.40843582 time: 0.0
+, fitness: 7.748063E-4 crashed: true pos: (376.47775,194.38022) normal: 0.39084584 time: 0.0
+, fitness: 7.956289E-4 crashed: true pos: (447.65652,226.27753) normal: 0.40134963 time: 0.0
+, fitness: 8.079088E-4 crashed: true pos: (417.85126,225.22597) normal: 0.40754414 time: 0.0
+, fitness: 8.083056E-4 crashed: true pos: (383.25824,217.39255) normal: 0.40774432 time: 0.0
+, fitness: 8.0566097E-4 crashed: true pos: (428.30978,226.75189) normal: 0.40641025 time: 0.0
+]Generation: 18
+max fitness: 8.306867E-4
+[fitness: 7.732435E-4 crashed: true pos: (376.81433,193.37978) normal: 0.392155 time: 0.0
+, fitness: 8.072775E-4 crashed: true pos: (383.29132,216.75682) normal: 0.40941554 time: 0.0
+, fitness: 8.0683484E-4 crashed: true pos: (383.2399,216.46971) normal: 0.409191 time: 0.0
+, fitness: 8.0550043E-4 crashed: true pos: (417.72018,223.65666) normal: 0.4085143 time: 0.0
+, fitness: 8.287988E-4 crashed: true pos: (400.61694,233.69684) normal: 0.4203302 time: 0.0
+, fitness: 7.9413236E-4 crashed: true pos: (349.09232,203.02425) normal: 0.40274888 time: 0.0
+, fitness: 7.8191346E-4 crashed: true pos: (330.4045,193.19492) normal: 0.39655203 time: 0.0
+, fitness: 7.842746E-4 crashed: true pos: (328.7384,194.6042) normal: 0.39774948 time: 0.0
+, fitness: 7.837528E-4 crashed: true pos: (328.76495,194.26566) normal: 0.39748487 time: 0.0
+, fitness: 7.877717E-4 crashed: true pos: (326.71005,196.71637) normal: 0.39952308 time: 0.0
+, fitness: 8.02654E-4 crashed: true pos: (383.67862,213.92427) normal: 0.4070707 time: 0.0
+, fitness: 7.8736705E-4 crashed: true pos: (304.7357,195.25348) normal: 0.39931786 time: 0.0
+, fitness: 8.2178845E-4 crashed: true pos: (382.63666,225.54535) normal: 0.41677487 time: 0.0
+, fitness: 8.0474874E-4 crashed: true pos: (383.38724,215.18901) normal: 0.40813303 time: 0.0
+, fitness: 8.0505555E-4 crashed: true pos: (428.49994,226.4187) normal: 0.40828866 time: 0.0
+, fitness: 7.726636E-4 crashed: true pos: (378.1269,193.21596) normal: 0.3918609 time: 0.0
+, fitness: 8.1932003E-4 crashed: true pos: (385.10913,224.54568) normal: 0.415523 time: 0.0
+, fitness: 8.003819E-4 crashed: true pos: (383.71115,212.48917) normal: 0.4059184 time: 0.0
+, fitness: 5.701333E-4 crashed: true pos: (609.5163,79.41664) normal: 0.28914648 time: 0.0
+, fitness: 7.9992175E-4 crashed: true pos: (383.68887,212.1919) normal: 0.405685 time: 0.0
+, fitness: 8.229239E-4 crashed: true pos: (382.5893,226.22072) normal: 0.4173507 time: 0.0
+, fitness: 7.8339904E-4 crashed: true pos: (298.74103,192.51752) normal: 0.39730546 time: 0.0
+, fitness: 8.136201E-4 crashed: true pos: (394.7711,223.10426) normal: 0.41263223 time: 0.0
+, fitness: 7.791202E-4 crashed: true pos: (329.61227,191.28957) normal: 0.3951354 time: 0.0
+, fitness: 7.812069E-4 crashed: true pos: (383.99615,200.05101) normal: 0.39619368 time: 0.0
+]Generation: 19
+max fitness: 8.287988E-4
+[fitness: 7.821582E-4 crashed: true pos: (316.86093,192.40955) normal: 0.39737666 time: 0.0
+, fitness: 8.029702E-4 crashed: true pos: (380.0607,213.43005) normal: 0.40795022 time: 0.0
+, fitness: 7.9275353E-4 crashed: true pos: (331.72147,200.32736) normal: 0.4027596 time: 0.0
+, fitness: 8.3177065E-4 crashed: true pos: (384.0864,231.7952) normal: 0.42258233 time: 0.0
+, fitness: 8.125066E-4 crashed: true pos: (382.36758,219.82536) normal: 0.4127952 time: 0.0
+, fitness: 7.9691724E-4 crashed: true pos: (439.3545,224.42952) normal: 0.40487498 time: 0.0
+, fitness: 5.6758715E-4 crashed: true pos: (610.62885,76.44932) normal: 0.2883635 time: 0.0
+, fitness: 7.785132E-4 crashed: true pos: (371.92392,196.1005) normal: 0.3955248 time: 0.0
+, fitness: 7.848058E-4 crashed: true pos: (330.06097,195.0583) normal: 0.39872175 time: 0.0
+, fitness: 8.012497E-4 crashed: true pos: (379.88995,212.30968) normal: 0.40707612 time: 0.0
+, fitness: 7.8244344E-4 crashed: true pos: (320.7153,192.82887) normal: 0.39752156 time: 0.0
+, fitness: 7.975522E-4 crashed: true pos: (383.55893,210.65321) normal: 0.40519756 time: 0.0
+, fitness: 7.9212897E-4 crashed: true pos: (332.1371,199.96437) normal: 0.40244228 time: 0.0
+, fitness: 8.1164745E-4 crashed: true pos: (407.2577,224.8223) normal: 0.41235867 time: 0.0
+, fitness: 7.8169594E-4 crashed: true pos: (327.41324,192.81223) normal: 0.3971418 time: 0.0
+, fitness: 7.810946E-4 crashed: true pos: (310.92044,191.41135) normal: 0.39683628 time: 0.0
+, fitness: 8.153938E-4 crashed: true pos: (398.3899,225.02126) normal: 0.41426206 time: 0.0
+, fitness: 8.3588844E-4 crashed: true pos: (396.32913,236.89014) normal: 0.4246744 time: 0.0
+, fitness: 7.750663E-4 crashed: true pos: (356.72476,191.51152) normal: 0.39377362 time: 0.0
+, fitness: 7.830501E-4 crashed: true pos: (305.33423,192.47118) normal: 0.39782974 time: 0.0
+, fitness: 7.77396E-4 crashed: true pos: (373.75067,195.65747) normal: 0.3949572 time: 0.0
+, fitness: 7.892606E-4 crashed: true pos: (377.62903,204.18498) normal: 0.40098503 time: 0.0
+, fitness: 8.1075093E-4 crashed: true pos: (405.14056,223.73825) normal: 0.41190323 time: 0.0
+, fitness: 7.860443E-4 crashed: true pos: (309.90494,194.5945) normal: 0.39935097 time: 0.0
+, fitness: 8.1240037E-4 crashed: true pos: (405.99152,224.97879) normal: 0.41274124 time: 0.0
+]Generation: 20
+max fitness: 8.3588844E-4
+[fitness: 7.974319E-4 crashed: true pos: (382.72604,210.41524) normal: 0.40057823 time: 0.0
+, fitness: 7.892526E-4 crashed: true pos: (316.8472,197.01308) normal: 0.39646947 time: 0.0
+, fitness: 7.893478E-4 crashed: true pos: (377.18503,204.16235) normal: 0.39651728 time: 0.0
+, fitness: 7.993007E-4 crashed: true pos: (383.98474,211.85385) normal: 0.401517 time: 0.0
+, fitness: 8.083743E-4 crashed: true pos: (424.3876,227.34727) normal: 0.406075 time: 0.0
+, fitness: 7.9940265E-4 crashed: true pos: (383.83978,211.89049) normal: 0.40156823 time: 0.0
+, fitness: 7.807869E-4 crashed: true pos: (310.58655,191.19452) normal: 0.39221686 time: 0.0
+, fitness: 7.822884E-4 crashed: true pos: (335.77173,193.9161) normal: 0.3929711 time: 0.0
+, fitness: 7.748618E-4 crashed: true pos: (376.4846,194.41896) normal: 0.38924044 time: 0.0
+, fitness: 8.159811E-4 crashed: true pos: (396.9167,225.04553) normal: 0.4098962 time: 0.0
+, fitness: 8.161609E-4 crashed: true pos: (396.72464,225.11252) normal: 0.40998644 time: 0.0
+, fitness: 7.9046487E-4 crashed: true pos: (332.1499,198.8983) normal: 0.39707842 time: 0.0
+, fitness: 7.768956E-4 crashed: true pos: (370.28647,194.74834) normal: 0.39026213 time: 0.0
+, fitness: 7.848185E-4 crashed: true pos: (327.4948,194.8606) normal: 0.39424208 time: 0.0
+, fitness: 8.176535E-4 crashed: true pos: (401.16553,227.06418) normal: 0.41073623 time: 0.0
+, fitness: 7.890722E-4 crashed: true pos: (335.1919,198.277) normal: 0.39637887 time: 0.0
+, fitness: 7.978901E-4 crashed: true pos: (381.72192,210.51637) normal: 0.40080842 time: 0.0
+, fitness: 7.899542E-4 crashed: true pos: (331.5825,198.52061) normal: 0.39682195 time: 0.0
+, fitness: 7.951329E-4 crashed: true pos: (329.65738,201.6672) normal: 0.39942336 time: 0.0
+, fitness: 8.0674555E-4 crashed: true pos: (421.71655,225.55194) normal: 0.4052568 time: 0.0
+, fitness: 8.1223785E-4 crashed: true pos: (405.43475,224.7402) normal: 0.4080158 time: 0.0
+, fitness: 7.8200334E-4 crashed: true pos: (272.2994,191.73424) normal: 0.39282793 time: 0.0
+, fitness: 7.8055117E-4 crashed: true pos: (365.905,196.49791) normal: 0.39209846 time: 0.0
+, fitness: 7.9760887E-4 crashed: true pos: (381.42874,210.28079) normal: 0.40066713 time: 0.0
+, fitness: 8.328035E-4 crashed: true pos: (397.07053,235.24275) normal: 0.41834664 time: 0.0
+]Generation: 21
+max fitness: 8.328035E-4
+[fitness: 7.604749E-4 crashed: true pos: (503.3341,223.11078) normal: 0.38837665 time: 0.0
+, fitness: 7.852605E-4 crashed: true pos: (339.15115,196.18962) normal: 0.40103477 time: 0.0
+, fitness: 8.054972E-4 crashed: true pos: (447.33078,232.66708) normal: 0.41136968 time: 0.0
+, fitness: 7.885927E-4 crashed: true pos: (332.20032,197.69676) normal: 0.40273649 time: 0.0
+, fitness: 7.81236E-4 crashed: true pos: (271.43045,191.25905) normal: 0.39897943 time: 0.0
+, fitness: 7.7766704E-4 crashed: true pos: (367.23016,194.77982) normal: 0.39715675 time: 0.0
+, fitness: 7.818565E-4 crashed: true pos: (297.71075,191.48932) normal: 0.39929628 time: 0.0
+, fitness: 7.882053E-4 crashed: true pos: (376.17212,203.23642) normal: 0.40253866 time: 0.0
+, fitness: 8.0396485E-4 crashed: true pos: (426.5805,225.15514) normal: 0.41058713 time: 0.0
+, fitness: 7.7283353E-4 crashed: true pos: (371.6277,192.22491) normal: 0.39468825 time: 0.0
+, fitness: 7.761507E-4 crashed: true pos: (376.985,195.37645) normal: 0.39638233 time: 0.0
+, fitness: 7.8012317E-4 crashed: true pos: (383.96457,199.32089) normal: 0.3984111 time: 0.0
+, fitness: 7.836108E-4 crashed: true pos: (359.1444,197.52469) normal: 0.4001922 time: 0.0
+, fitness: 7.8642974E-4 crashed: true pos: (335.61288,196.60564) normal: 0.4016319 time: 0.0
+, fitness: 7.7830633E-4 crashed: true pos: (366.05237,195.02509) normal: 0.39748323 time: 0.0
+, fitness: 7.799807E-4 crashed: true pos: (383.73328,199.1816) normal: 0.39833832 time: 0.0
+, fitness: 7.800183E-4 crashed: true pos: (383.61255,199.18378) normal: 0.3983575 time: 0.0
+, fitness: 7.800622E-4 crashed: true pos: (383.5043,199.19263) normal: 0.39837998 time: 0.0
+, fitness: 7.992773E-4 crashed: true pos: (437.3416,225.35017) normal: 0.40819314 time: 0.0
+, fitness: 7.8254624E-4 crashed: true pos: (373.37997,199.02925) normal: 0.39964855 time: 0.0
+, fitness: 7.8005146E-4 crashed: true pos: (383.32034,199.15063) normal: 0.39837447 time: 0.0
+, fitness: 7.800954E-4 crashed: true pos: (383.2114,199.15935) normal: 0.3983969 time: 0.0
+, fitness: 7.719535E-4 crashed: true pos: (376.72647,192.487) normal: 0.39423883 time: 0.0
+, fitness: 7.9141126E-4 crashed: true pos: (330.2338,199.34143) normal: 0.40417597 time: 0.0
+, fitness: 7.852562E-4 crashed: true pos: (308.51788,194.02553) normal: 0.40103257 time: 0.0
+]Generation: 22
+max fitness: 8.054972E-4
+[fitness: 7.819281E-4 crashed: true pos: (373.56503,198.65074) normal: 0.39822832 time: 0.0
+, fitness: 7.909246E-4 crashed: true pos: (381.9454,206.065) normal: 0.40281013 time: 0.0
+, fitness: 7.844674E-4 crashed: true pos: (359.75626,198.1741) normal: 0.39952156 time: 0.0
+, fitness: 7.709719E-4 crashed: true pos: (371.90897,191.00452) normal: 0.39264843 time: 0.0
+, fitness: 7.79523E-4 crashed: true pos: (383.20352,198.7747) normal: 0.3970034 time: 0.0
+, fitness: 7.849071E-4 crashed: true pos: (308.59747,193.80197) normal: 0.39974546 time: 0.0
+, fitness: 8.1419887E-4 crashed: true pos: (402.73047,225.304) normal: 0.41466352 time: 0.0
+, fitness: 7.808043E-4 crashed: true pos: (368.8742,197.13174) normal: 0.397656 time: 0.0
+, fitness: 7.873546E-4 crashed: true pos: (312.90732,195.58061) normal: 0.400992 time: 0.0
+, fitness: 7.846986E-4 crashed: true pos: (308.63004,193.66776) normal: 0.3996393 time: 0.0
+, fitness: 7.9878786E-4 crashed: true pos: (436.6044,224.79915) normal: 0.4068148 time: 0.0
+, fitness: 7.752868E-4 crashed: true pos: (376.4508,194.70024) normal: 0.39484596 time: 0.0
+, fitness: 7.7519444E-4 crashed: true pos: (366.61264,193.0239) normal: 0.39479893 time: 0.0
+, fitness: 7.8129367E-4 crashed: true pos: (340.2825,193.70514) normal: 0.39790523 time: 0.0
+, fitness: 7.980251E-4 crashed: true pos: (436.6188,224.30241) normal: 0.40642637 time: 0.0
+, fitness: 7.787565E-4 crashed: true pos: (345.8827,192.63249) normal: 0.39661306 time: 0.0
+, fitness: 7.8750966E-4 crashed: true pos: (266.11237,195.54152) normal: 0.40107095 time: 0.0
+, fitness: 8.107022E-4 crashed: true pos: (423.7773,228.65045) normal: 0.4128827 time: 0.0
+, fitness: 7.882638E-4 crashed: true pos: (347.20056,199.02078) normal: 0.40145501 time: 0.0
+, fitness: 7.7807973E-4 crashed: true pos: (383.31897,197.82791) normal: 0.39626837 time: 0.0
+, fitness: 7.594341E-4 crashed: true pos: (509.74423,225.24397) normal: 0.38677233 time: 0.0
+, fitness: 7.778265E-4 crashed: true pos: (383.33813,197.66122) normal: 0.39613944 time: 0.0
+, fitness: 7.816803E-4 crashed: true pos: (375.7393,198.85988) normal: 0.3981021 time: 0.0
+, fitness: 8.069727E-4 crashed: true pos: (439.81396,231.14099) normal: 0.41098326 time: 0.0
+, fitness: 7.7757967E-4 crashed: true pos: (358.85812,193.4868) normal: 0.3960137 time: 0.0
+]Generation: 23
+max fitness: 8.1419887E-4
+[fitness: 8.046803E-4 crashed: true pos: (383.81714,215.23021) normal: 0.41048068 time: 0.0
+, fitness: 7.834829E-4 crashed: true pos: (308.9049,192.88733) normal: 0.39966756 time: 0.0
+, fitness: 7.8683E-4 crashed: true pos: (382.34827,203.46278) normal: 0.40137494 time: 0.0
+, fitness: 8.1794616E-4 crashed: true pos: (409.63544,229.33885) normal: 0.41724783 time: 0.0
+, fitness: 7.714994E-4 crashed: true pos: (383.56628,193.41277) normal: 0.39355457 time: 0.0
+, fitness: 7.812737E-4 crashed: true pos: (359.93738,196.09453) normal: 0.39854056 time: 0.0
+, fitness: 7.765072E-4 crashed: true pos: (383.41766,196.78703) normal: 0.3961091 time: 0.0
+, fitness: 7.803674E-4 crashed: true pos: (375.77695,197.99258) normal: 0.39807826 time: 0.0
+, fitness: 7.5787294E-4 crashed: true pos: (510.19046,224.25493) normal: 0.38660347 time: 0.0
+, fitness: 7.789923E-4 crashed: true pos: (371.4581,196.34389) normal: 0.39737684 time: 0.0
+, fitness: 7.7586743E-4 crashed: true pos: (358.50177,192.29129) normal: 0.39578277 time: 0.0
+, fitness: 7.7605195E-4 crashed: true pos: (369.47852,194.05139) normal: 0.39587688 time: 0.0
+, fitness: 8.395756E-4 crashed: true pos: (239.54489,229.03925) normal: 0.42828137 time: 0.0
+, fitness: 7.7559124E-4 crashed: true pos: (383.41873,196.1682) normal: 0.3956419 time: 0.0
+, fitness: 7.7842915E-4 crashed: true pos: (341.2033,191.9063) normal: 0.39708954 time: 0.0
+, fitness: 7.677532E-4 crashed: true pos: (501.9268,227.94516) normal: 0.39164358 time: 0.0
+, fitness: 7.7517075E-4 crashed: true pos: (369.56354,193.4716) normal: 0.39542738 time: 0.0
+, fitness: 7.769396E-4 crashed: true pos: (375.04053,195.5705) normal: 0.3963297 time: 0.0
+, fitness: 7.834772E-4 crashed: true pos: (286.4509,192.4578) normal: 0.39966464 time: 0.0
+, fitness: 7.744068E-4 crashed: true pos: (358.2261,191.27185) normal: 0.39503768 time: 0.0
+, fitness: 7.826011E-4 crashed: true pos: (314.06937,192.54918) normal: 0.39921772 time: 0.0
+, fitness: 8.1750285E-4 crashed: true pos: (402.16806,227.21101) normal: 0.41702166 time: 0.0
+, fitness: 7.741273E-4 crashed: true pos: (369.6667,192.78369) normal: 0.3948951 time: 0.0
+, fitness: 7.964319E-4 crashed: true pos: (445.132,225.9732) normal: 0.40627304 time: 0.0
+, fitness: 7.699884E-4 crashed: true pos: (377.64706,191.30524) normal: 0.39278376 time: 0.0
+]Generation: 24
+max fitness: 8.395756E-4
+[fitness: 7.7351497E-4 crashed: true pos: (369.7106,192.37646) normal: 0.3962177 time: 0.0
+, fitness: 8.1976794E-4 crashed: true pos: (399.26663,227.91254) normal: 0.4199099 time: 0.0
+, fitness: 8.3576475E-4 crashed: true pos: (238.36374,226.97733) normal: 0.42810392 time: 0.0
+, fitness: 7.774505E-4 crashed: true pos: (477.17618,224.53903) normal: 0.3982336 time: 0.0
+, fitness: 7.8297424E-4 crashed: true pos: (305.73773,192.43547) normal: 0.40106302 time: 0.0
+, fitness: 8.2337996E-4 crashed: true pos: (611.96533,340.99106) normal: 0.42176008 time: 0.0
+, fitness: 7.751666E-4 crashed: true pos: (375.551,194.46335) normal: 0.39706373 time: 0.0
+, fitness: 7.7726063E-4 crashed: true pos: (360.4466,193.49702) normal: 0.39813635 time: 0.0
+, fitness: 8.203685E-4 crashed: true pos: (390.163,226.2374) normal: 0.4202175 time: 0.0
+, fitness: 7.7160826E-4 crashed: true pos: (369.83777,191.1027) normal: 0.39524105 time: 0.0
+, fitness: 8.1509014E-4 crashed: true pos: (402.57205,225.81845) normal: 0.4175138 time: 0.0
+, fitness: 7.9434796E-4 crashed: true pos: (447.94818,225.52023) normal: 0.406889 time: 0.0
+, fitness: 7.820306E-4 crashed: true pos: (280.5084,191.56592) normal: 0.40057963 time: 0.0
+, fitness: 8.3395076E-4 crashed: true pos: (402.7476,237.28342) normal: 0.42717475 time: 0.0
+, fitness: 7.8257E-4 crashed: true pos: (340.3318,194.54962) normal: 0.40085596 time: 0.0
+, fitness: 7.75915E-4 crashed: true pos: (376.4053,195.1164) normal: 0.39744708 time: 0.0
+, fitness: 6.666211E-4 crashed: true pos: (608.7096,195.85643) normal: 0.34146342 time: 0.0
+, fitness: 5.645481E-4 crashed: true pos: (341.84158,-3.482651) normal: 0.28917858 time: 0.0
+, fitness: 7.8073394E-4 crashed: true pos: (350.8531,194.53154) normal: 0.39991552 time: 0.0
+, fitness: 8.134292E-4 crashed: true pos: (402.82776,224.84937) normal: 0.416663 time: 0.0
+, fitness: 7.80467E-4 crashed: true pos: (381.0973,199.01273) normal: 0.39977875 time: 0.0
+, fitness: 7.734405E-4 crashed: true pos: (371.094,192.54936) normal: 0.3961796 time: 0.0
+, fitness: 8.0489216E-4 crashed: true pos: (417.0942,223.09904) normal: 0.41229007 time: 0.0
+, fitness: 7.789757E-4 crashed: true pos: (383.05786,198.38042) normal: 0.3990149 time: 0.0
+, fitness: 8.18205E-4 crashed: true pos: (426.19495,234.06403) normal: 0.4191093 time: 0.0
+]Generation: 25
+max fitness: 8.3576475E-4
+[fitness: 8.188398E-4 crashed: true pos: (384.36035,224.10223) normal: 0.41136307 time: 0.0
+, fitness: 7.897867E-4 crashed: true pos: (463.15927,227.78755) normal: 0.39676756 time: 0.0
+, fitness: 7.7420037E-4 crashed: true pos: (361.0656,191.5304) normal: 0.3889374 time: 0.0
+, fitness: 8.1191165E-4 crashed: true pos: (403.05356,223.95834) normal: 0.40788257 time: 0.0
+, fitness: 8.3134294E-4 crashed: true pos: (237.49634,224.50865) normal: 0.41764432 time: 0.0
+, fitness: 7.9168286E-4 crashed: true pos: (449.06384,224.10664) normal: 0.39772016 time: 0.0
+, fitness: 8.1742706E-4 crashed: true pos: (426.50082,233.66919) normal: 0.41065332 time: 0.0
+, fitness: 8.130799E-4 crashed: true pos: (400.6618,224.11731) normal: 0.40846944 time: 0.0
+, fitness: 7.789141E-4 crashed: true pos: (351.6454,193.42377) normal: 0.39130545 time: 0.0
+, fitness: 7.944994E-4 crashed: true pos: (451.55203,226.84418) normal: 0.39913508 time: 0.0
+, fitness: 8.277535E-4 crashed: true pos: (221.34023,224.38412) normal: 0.41584104 time: 0.0
+, fitness: 7.778008E-4 crashed: true pos: (474.6894,223.81194) normal: 0.39074615 time: 0.0
+, fitness: 5.6529726E-4 crashed: true pos: (360.06628,-0.9129038) normal: 0.28399011 time: 0.0
+, fitness: 7.7210536E-4 crashed: true pos: (380.06345,193.18173) normal: 0.38788494 time: 0.0
+, fitness: 7.78492E-4 crashed: true pos: (357.01343,193.84204) normal: 0.39109343 time: 0.0
+, fitness: 8.6771674E-4 crashed: true pos: (609.3305,372.4713) normal: 0.4359175 time: 0.0
+, fitness: 7.7723485E-4 crashed: true pos: (366.90683,194.44016) normal: 0.39046183 time: 0.0
+, fitness: 8.311788E-4 crashed: true pos: (390.90527,232.88666) normal: 0.41756183 time: 0.0
+, fitness: 7.8320125E-4 crashed: true pos: (316.46558,193.06949) normal: 0.3934592 time: 0.0
+, fitness: 8.050424E-4 crashed: true pos: (417.53677,223.31436) normal: 0.40443158 time: 0.0
+, fitness: 8.3100435E-4 crashed: true pos: (238.67285,224.18889) normal: 0.4174742 time: 0.0
+, fitness: 8.105616E-4 crashed: true pos: (408.4907,224.4507) normal: 0.4072043 time: 0.0
+, fitness: 8.198349E-4 crashed: true pos: (402.39728,228.69762) normal: 0.41186297 time: 0.0
+, fitness: 8.242404E-4 crashed: true pos: (405.71677,232.19823) normal: 0.41407615 time: 0.0
+, fitness: 8.12376E-4 crashed: true pos: (399.60632,223.43256) normal: 0.4081158 time: 0.0
+]Generation: 26
+max fitness: 8.6771674E-4
+[fitness: 8.154553E-4 crashed: true pos: (427.15625,232.629) normal: 0.4086949 time: 0.0
+, fitness: 8.2186563E-4 crashed: true pos: (413.69177,232.81268) normal: 0.41190767 time: 0.0
+, fitness: 7.7298726E-4 crashed: true pos: (484.4001,224.24612) normal: 0.38741052 time: 0.0
+, fitness: 8.198158E-4 crashed: true pos: (402.39722,228.68594) normal: 0.41088033 time: 0.0
+, fitness: 8.344727E-4 crashed: true pos: (242.99693,225.77261) normal: 0.41822615 time: 0.0
+, fitness: 8.292149E-4 crashed: true pos: (222.78537,225.0446) normal: 0.41559103 time: 0.0
+, fitness: 7.694974E-4 crashed: true pos: (380.57605,191.49017) normal: 0.38566145 time: 0.0
+, fitness: 8.328221E-4 crashed: true pos: (399.3623,235.79408) normal: 0.41739893 time: 0.0
+, fitness: 8.310034E-4 crashed: true pos: (383.0424,231.13058) normal: 0.41648743 time: 0.0
+, fitness: 7.921863E-4 crashed: true pos: (359.62463,203.17404) normal: 0.3970328 time: 0.0
+, fitness: 8.050541E-4 crashed: true pos: (417.77103,223.38521) normal: 0.403482 time: 0.0
+, fitness: 6.0756237E-4 crashed: true pos: (612.2408,130.01036) normal: 0.30450183 time: 0.0
+, fitness: 7.7757647E-4 crashed: true pos: (357.13257,193.2477) normal: 0.38971055 time: 0.0
+, fitness: 7.839246E-4 crashed: true pos: (295.08942,192.79607) normal: 0.39289212 time: 0.0
+, fitness: 7.8948913E-4 crashed: true pos: (450.3899,223.07233) normal: 0.39568102 time: 0.0
+, fitness: 7.759465E-4 crashed: true pos: (366.57364,193.52391) normal: 0.38889363 time: 0.0
+, fitness: 8.304614E-4 crashed: true pos: (390.81573,232.44156) normal: 0.41621572 time: 0.0
+, fitness: 8.6432445E-4 crashed: true pos: (611.08234,371.6518) normal: 0.43318745 time: 0.0
+, fitness: 8.306514E-4 crashed: true pos: (382.87204,230.88823) normal: 0.416311 time: 0.0
+, fitness: 7.890978E-4 crashed: true pos: (272.94672,196.31554) normal: 0.3954849 time: 0.0
+, fitness: 7.7737606E-4 crashed: true pos: (352.5207,192.50977) normal: 0.3896101 time: 0.0
+, fitness: 7.920472E-4 crashed: true pos: (359.65738,203.08919) normal: 0.3969631 time: 0.0
+, fitness: 8.26676E-4 crashed: true pos: (389.2166,229.83936) normal: 0.4143186 time: 0.0
+, fitness: 7.918617E-4 crashed: true pos: (359.7261,202.97955) normal: 0.3968701 time: 0.0
+, fitness: 7.912966E-4 crashed: true pos: (308.59796,197.92033) normal: 0.39658692 time: 0.0
+]Generation: 27
+max fitness: 8.6432445E-4
+[fitness: 7.703238E-4 crashed: true pos: (379.4124,191.84741) normal: 0.37164778 time: 0.0
+, fitness: 8.0642954E-4 crashed: true pos: (428.7445,227.37367) normal: 0.38906723 time: 0.0
+, fitness: 8.066425E-4 crashed: true pos: (413.6788,223.30798) normal: 0.38917 time: 0.0
+, fitness: 7.7899446E-4 crashed: true pos: (379.1983,197.68117) normal: 0.37583098 time: 0.0
+, fitness: 7.773849E-4 crashed: true pos: (352.5467,192.51898) normal: 0.37505445 time: 0.0
+, fitness: 7.7886594E-4 crashed: true pos: (379.16458,197.58897) normal: 0.375769 time: 0.0
+, fitness: 8.16019E-4 crashed: true pos: (382.1199,221.9361) normal: 0.39369375 time: 0.0
+, fitness: 8.47034E-4 crashed: true pos: (609.45624,357.06244) normal: 0.40865713 time: 0.0
+, fitness: 8.3232526E-4 crashed: true pos: (224.88872,226.58063) normal: 0.40156078 time: 0.0
+, fitness: 8.296075E-4 crashed: true pos: (391.1487,232.00691) normal: 0.4002496 time: 0.0
+, fitness: 8.296029E-4 crashed: true pos: (382.8381,230.26071) normal: 0.40024734 time: 0.0
+, fitness: 7.774549E-4 crashed: true pos: (352.70444,192.58557) normal: 0.37508819 time: 0.0
+, fitness: 7.914897E-4 crashed: true pos: (359.86414,202.75946) normal: 0.38185942 time: 0.0
+, fitness: 7.7443133E-4 crashed: true pos: (366.45538,192.4853) normal: 0.37362948 time: 0.0
+, fitness: 8.33068E-4 crashed: true pos: (399.33902,235.93425) normal: 0.40191913 time: 0.0
+, fitness: 7.895412E-4 crashed: true pos: (451.1269,223.35762) normal: 0.38091934 time: 0.0
+, fitness: 7.904695E-4 crashed: true pos: (309.04407,197.40944) normal: 0.3813672 time: 0.0
+, fitness: 8.325841E-4 crashed: true pos: (225.5786,226.64043) normal: 0.40168568 time: 0.0
+, fitness: 8.3776447E-4 crashed: true pos: (244.87306,227.49052) normal: 0.404185 time: 0.0
+, fitness: 0.0016796316 crashed: true pos: (505.0004,801.1073) normal: 0.8103493 time: 0.0
+, fitness: 7.8992173E-4 crashed: true pos: (271.95737,196.8749) normal: 0.38110292 time: 0.0
+, fitness: 8.198709E-4 crashed: true pos: (402.3424,228.70648) normal: 0.3955521 time: 0.0
+, fitness: 7.9111604E-4 crashed: true pos: (360.00278,202.5382) normal: 0.38167912 time: 0.0
+, fitness: 5.645987E-4 crashed: true pos: (352.3571,-2.538691) normal: 0.27239436 time: 0.0
+, fitness: 7.820809E-4 crashed: true pos: (331.57553,193.40366) normal: 0.37732008 time: 0.0
+]Generation: 28
+max fitness: 0.0016796316
+[fitness: 7.9092855E-4 crashed: true pos: (360.07227,202.42717) normal: 0.32144544 time: 0.0
+, fitness: 8.290196E-4 crashed: true pos: (391.44904,231.72272) normal: 0.33692622 time: 0.0
+, fitness: 5.6161836E-4 crashed: true pos: (349.6091,-6.5577316) normal: 0.22825027 time: 0.0
+, fitness: 0.0012162938 crashed: true pos: (609.51227,633.83374) normal: 0.49432033 time: 0.0
+, fitness: 0.0032993252 crashed: true pos: (335.81088,814.41144) normal: 1.340896 time: 0.0
+, fitness: 5.6454155E-4 crashed: true pos: (352.33063,-2.6130357) normal: 0.22943828 time: 0.0
+, fitness: 0.0017445575 crashed: true pos: (491.84784,807.964) normal: 0.7090148 time: 0.0
+, fitness: 0.0016844063 crashed: true pos: (504.44705,800.6924) normal: 0.68456835 time: 0.0
+, fitness: 5.64513E-4 crashed: true pos: (352.3174,-2.650351) normal: 0.22942668 time: 0.0
+, fitness: 7.847269E-4 crashed: true pos: (353.90738,197.54732) normal: 0.31892496 time: 0.0
+, fitness: 7.848274E-4 crashed: true pos: (256.06464,194.3353) normal: 0.3189658 time: 0.0
+, fitness: 7.881056E-4 crashed: true pos: (336.0252,197.73108) normal: 0.3202981 time: 0.0
+, fitness: 8.2880014E-4 crashed: true pos: (391.585,231.62177) normal: 0.33683702 time: 0.0
+, fitness: 0.0012942505 crashed: true pos: (579.32983,806.1722) normal: 0.5260031 time: 0.0
+, fitness: 8.309659E-4 crashed: true pos: (394.04117,233.45769) normal: 0.3377172 time: 0.0
+, fitness: 7.6906785E-4 crashed: true pos: (380.54477,191.18945) normal: 0.31256092 time: 0.0
+, fitness: 7.770376E-4 crashed: true pos: (379.006,196.33257) normal: 0.3157999 time: 0.0
+, fitness: 8.160447E-4 crashed: true pos: (180.29921,224.80922) normal: 0.331653 time: 0.0
+, fitness: 7.850165E-4 crashed: true pos: (257.03397,194.3984) normal: 0.31904268 time: 0.0
+, fitness: 8.287219E-4 crashed: true pos: (391.62595,231.58415) normal: 0.33680522 time: 0.0
+, fitness: 7.9425547E-4 crashed: true pos: (441.8635,223.46332) normal: 0.32279754 time: 0.0
+, fitness: 8.0643565E-4 crashed: true pos: (428.74695,227.37828) normal: 0.32774773 time: 0.0
+, fitness: 8.33068E-4 crashed: true pos: (399.33905,235.93425) normal: 0.33857152 time: 0.0
+, fitness: 7.889771E-4 crashed: true pos: (309.86267,196.486) normal: 0.3206523 time: 0.0
+, fitness: 8.3987106E-4 crashed: true pos: (609.45123,351.5799) normal: 0.3413364 time: 0.0
+]Generation: 29
+max fitness: 0.0032993252
+[fitness: 7.647651E-4 crashed: true pos: (504.061,226.67577) normal: 0.2372207 time: 0.0
+, fitness: 8.1641244E-4 crashed: true pos: (401.8031,226.45166) normal: 0.2532411 time: 0.0
+, fitness: 8.2849356E-4 crashed: true pos: (391.7715,231.47992) normal: 0.2569885 time: 0.0
+, fitness: 7.8972493E-4 crashed: true pos: (258.21472,197.37105) normal: 0.24496295 time: 0.0
+, fitness: 0.001270744 crashed: true pos: (584.47406,808.76953) normal: 0.39416912 time: 0.0
+, fitness: 8.2841574E-4 crashed: true pos: (391.8184,231.44382) normal: 0.25696436 time: 0.0
+, fitness: 0.0015358629 crashed: true pos: (524.78986,811.4413) normal: 0.47640577 time: 0.0
+, fitness: 0.00310443 crashed: true pos: (369.92737,802.4472) normal: 0.9629559 time: 0.0
+, fitness: 0.0018075136 crashed: true pos: (478.47845,815.6542) normal: 0.56066847 time: 0.0
+, fitness: 8.283563E-4 crashed: true pos: (391.86148,231.41782) normal: 0.2569459 time: 0.0
+, fitness: 0.0020708377 crashed: true pos: (345.94034,518.7362) normal: 0.6423483 time: 0.0
+, fitness: 8.3141716E-4 crashed: true pos: (609.3927,344.99167) normal: 0.25789535 time: 0.0
+, fitness: 0.0012095758 crashed: true pos: (599.4813,814.0775) normal: 0.3751955 time: 0.0
+, fitness: 7.849729E-4 crashed: true pos: (354.18564,197.74481) normal: 0.24348892 time: 0.0
+, fitness: 7.938222E-4 crashed: true pos: (442.02197,223.22554) normal: 0.24623387 time: 0.0
+, fitness: 0.00354714 crashed: true pos: (316.85587,812.01245) normal: 1.1002791 time: 0.0
+, fitness: 8.2830666E-4 crashed: true pos: (391.9012,231.39699) normal: 0.25693053 time: 0.0
+, fitness: 0.002402617 crashed: true pos: (419.829,804.678) normal: 0.74526215 time: 0.0
+, fitness: 7.84846E-4 crashed: true pos: (364.38318,199.1023) normal: 0.24344957 time: 0.0
+, fitness: 8.282307E-4 crashed: true pos: (391.94147,231.36049) normal: 0.25690696 time: 0.0
+, fitness: 5.644843E-4 crashed: true pos: (352.30405,-2.6877618) normal: 0.17509608 time: 0.0
+, fitness: 8.281447E-4 crashed: true pos: (391.98547,231.31883) normal: 0.25688028 time: 0.0
+, fitness: 8.193291E-4 crashed: true pos: (398.349,227.4303) normal: 0.2541458 time: 0.0
+, fitness: 0.002600389 crashed: true pos: (400.82816,807.55316) normal: 0.8066087 time: 0.0
+, fitness: 7.697164E-4 crashed: true pos: (381.39694,191.78975) normal: 0.23875654 time: 0.0
+]Generation: 30
+max fitness: 0.00354714
+[fitness: 0.0037116266 crashed: true pos: (331.03064,801.80597) normal: 1.0482262 time: 0.0
+, fitness: 7.834733E-4 crashed: true pos: (268.56656,192.82295) normal: 0.22126615 time: 0.0
+, fitness: 7.850705E-4 crashed: true pos: (354.27304,197.82014) normal: 0.22171721 time: 0.0
+, fitness: 7.988515E-4 crashed: true pos: (446.76993,228.11949) normal: 0.22560921 time: 0.0
+, fitness: 0.001227484 crashed: true pos: (594.39343,813.9693) normal: 0.34666228 time: 0.0
+, fitness: 0.00260527 crashed: true pos: (394.55524,813.5394) normal: 0.7357724 time: 0.0
+, fitness: 0.0018469192 crashed: true pos: (476.11105,810.3302) normal: 0.5216013 time: 0.0
+, fitness: 0.0023098397 crashed: true pos: (425.12546,808.7602) normal: 0.6523379 time: 0.0
+, fitness: 7.700337E-4 crashed: true pos: (381.82037,192.08495) normal: 0.21747056 time: 0.0
+, fitness: 7.732374E-4 crashed: true pos: (491.7816,227.52328) normal: 0.21837534 time: 0.0
+, fitness: 0.0012398968 crashed: true pos: (595.66077,800.0591) normal: 0.35016787 time: 0.0
+, fitness: 0.0017532768 crashed: true pos: (412.10947,511.5669) normal: 0.49515513 time: 0.0
+, fitness: 0.0011178482 crashed: true pos: (608.714,544.3019) normal: 0.31569928 time: 0.0
+, fitness: 0.0012786486 crashed: true pos: (578.922,818.0094) normal: 0.36111206 time: 0.0
+, fitness: 8.281641E-4 crashed: true pos: (391.99588,231.33269) normal: 0.23388758 time: 0.0
+, fitness: 0.0014627912 crashed: true pos: (542.89154,802.02075) normal: 0.41311705 time: 0.0
+, fitness: 7.93605E-4 crashed: true pos: (442.10144,223.1062) normal: 0.2241275 time: 0.0
+, fitness: 0.0018337045 crashed: true pos: (401.8405,516.92377) normal: 0.51786923 time: 0.0
+, fitness: 0.0017648381 crashed: true pos: (410.94458,512.5933) normal: 0.49842024 time: 0.0
+, fitness: 6.856654E-4 crashed: true pos: (608.07086,215.26962) normal: 0.19364354 time: 0.0
+, fitness: 0.003811607 crashed: true pos: (271.6639,806.6633) normal: 1.0764624 time: 0.0
+, fitness: 8.164231E-4 crashed: true pos: (409.0388,228.24448) normal: 0.23057172 time: 0.0
+, fitness: 8.155324E-4 crashed: true pos: (411.13943,228.2322) normal: 0.23032019 time: 0.0
+, fitness: 7.705265E-4 crashed: true pos: (382.4261,192.53444) normal: 0.21760973 time: 0.0
+, fitness: 8.2430674E-4 crashed: true pos: (405.17065,232.1023) normal: 0.23279819 time: 0.0
+]Generation: 31
+max fitness: 0.003811607
+[fitness: 7.8106974E-4 crashed: true pos: (353.41962,195.07747) normal: 0.26162726 time: 0.0
+, fitness: 7.7314297E-4 crashed: true pos: (493.33176,228.1218) normal: 0.2589721 time: 0.0
+, fitness: 0.0030009854 crashed: true pos: (364.89908,811.8698) normal: 1.0052106 time: 0.0
+, fitness: 8.040447E-4 crashed: true pos: (427.08658,225.3537) normal: 0.26932296 time: 0.0
+, fitness: 5.547661E-4 crashed: true pos: (-2.2785387,42.988747) normal: 0.18582456 time: 0.0
+, fitness: 0.0017753767 crashed: true pos: (409.5441,513.2922) normal: 0.59468055 time: 0.0
+, fitness: 9.7336795E-4 crashed: true pos: (609.15796,446.61594) normal: 0.32603952 time: 0.0
+, fitness: 8.1617763E-4 crashed: true pos: (409.17148,228.12625) normal: 0.273387 time: 0.0
+, fitness: 7.730771E-4 crashed: true pos: (493.35275,228.08289) normal: 0.25895005 time: 0.0
+, fitness: 0.0029407896 crashed: true pos: (364.35428,815.56506) normal: 0.98504746 time: 0.0
+, fitness: 0.0012487615 crashed: true pos: (585.2792,822.2824) normal: 0.4182854 time: 0.0
+, fitness: 7.714554E-4 crashed: true pos: (484.45236,223.15712) normal: 0.25840685 time: 0.0
+, fitness: 7.812082E-4 crashed: true pos: (466.69366,223.16605) normal: 0.26167366 time: 0.0
+, fitness: 0.0020684204 crashed: true pos: (360.46548,523.7063) normal: 0.6928385 time: 0.0
+, fitness: 0.0011556952 crashed: true pos: (609.1592,573.96387) normal: 0.38711187 time: 0.0
+, fitness: 7.851037E-4 crashed: true pos: (354.32608,197.84886) normal: 0.2629785 time: 0.0
+, fitness: 7.7305635E-4 crashed: true pos: (493.39563,228.08629) normal: 0.2589431 time: 0.0
+, fitness: 7.729705E-4 crashed: true pos: (493.31955,227.99078) normal: 0.25891435 time: 0.0
+, fitness: 0.0012581204 crashed: true pos: (587.5148,809.6457) normal: 0.42142028 time: 0.0
+, fitness: 8.2516513E-4 crashed: true pos: (614.6213,344.80658) normal: 0.27639747 time: 0.0
+, fitness: 7.711703E-4 crashed: true pos: (383.5109,193.1772) normal: 0.25831136 time: 0.0
+, fitness: 0.0018372384 crashed: true pos: (397.03754,514.5538) normal: 0.61540174 time: 0.0
+, fitness: 0.0017966408 crashed: true pos: (406.44534,514.4841) normal: 0.6018031 time: 0.0
+, fitness: 7.75593E-4 crashed: true pos: (352.23837,191.28189) normal: 0.25979277 time: 0.0
+, fitness: 0.0010409007 crashed: true pos: (610.3094,493.74) normal: 0.34866032 time: 0.0
+]Generation: 32
+max fitness: 0.0030009854
+[fitness: 7.812272E-4 crashed: true pos: (466.78912,223.21484) normal: 0.2516831 time: 0.0
+, fitness: 0.0020855793 crashed: true pos: (358.37708,524.5856) normal: 0.67189807 time: 0.0
+, fitness: 0.0020026972 crashed: true pos: (460.08792,804.38086) normal: 0.64519644 time: 0.0
+, fitness: 0.0021499773 crashed: true pos: (445.66855,801.76575) normal: 0.6926447 time: 0.0
+, fitness: 0.0016425168 crashed: true pos: (510.84534,801.215) normal: 0.52915937 time: 0.0
+, fitness: 7.730138E-4 crashed: true pos: (493.46237,228.0841) normal: 0.24903703 time: 0.0
+, fitness: 7.8121794E-4 crashed: true pos: (466.9142,223.25505) normal: 0.2516801 time: 0.0
+, fitness: 7.903367E-4 crashed: true pos: (452.27664,224.28925) normal: 0.25461784 time: 0.0
+, fitness: 8.0387905E-4 crashed: true pos: (427.13467,225.26085) normal: 0.2589807 time: 0.0
+, fitness: 7.8142004E-4 crashed: true pos: (489.34146,232.37114) normal: 0.25174522 time: 0.0
+, fitness: 7.729667E-4 crashed: true pos: (493.4442,228.04195) normal: 0.24902186 time: 0.0
+, fitness: 7.7288336E-4 crashed: true pos: (493.3538,227.94194) normal: 0.24899499 time: 0.0
+, fitness: 7.811391E-4 crashed: true pos: (467.16684,223.29422) normal: 0.2516547 time: 0.0
+, fitness: 6.0200744E-4 crashed: true pos: (610.1067,121.85235) normal: 0.19394499 time: 0.0
+, fitness: 8.083241E-4 crashed: true pos: (379.38428,216.66014) normal: 0.26041272 time: 0.0
+, fitness: 0.0033138583 crashed: true pos: (325.33472,817.7862) normal: 1.067605 time: 0.0
+, fitness: 8.268869E-4 crashed: true pos: (389.14114,229.9494) normal: 0.266393 time: 0.0
+, fitness: 0.0021216504 crashed: true pos: (439.69116,814.9566) normal: 0.6835189 time: 0.0
+, fitness: 7.794325E-4 crashed: true pos: (480.0041,227.0773) normal: 0.2511049 time: 0.0
+, fitness: 0.0035544753 crashed: true pos: (272.42413,814.45105) normal: 1.1451231 time: 0.0
+, fitness: 7.810791E-4 crashed: true pos: (353.4854,195.09215) normal: 0.25163537 time: 0.0
+, fitness: 0.0012469804 crashed: true pos: (593.7142,800.1358) normal: 0.40173188 time: 0.0
+, fitness: 7.6554023E-4 crashed: true pos: (506.0806,228.17973) normal: 0.2466293 time: 0.0
+, fitness: 5.5701373E-4 crashed: true pos: (-3.1175218,46.5398) normal: 0.17944963 time: 0.0
+, fitness: 7.640112E-4 crashed: true pos: (507.09863,227.49707) normal: 0.24613671 time: 0.0
+]Generation: 33
+max fitness: 0.0035544753
+[fitness: 0.0034905293 crashed: true pos: (313.36664,814.753) normal: 1.1251371 time: 0.0
+, fitness: 7.811719E-4 crashed: true pos: (467.2999,223.36688) normal: 0.25180292 time: 0.0
+, fitness: 7.811193E-4 crashed: true pos: (467.42737,223.37767) normal: 0.251786 time: 0.0
+, fitness: 0.0021098156 crashed: true pos: (442.57355,812.7789) normal: 0.6800779 time: 0.0
+, fitness: 6.575736E-4 crashed: true pos: (610.3883,187.15996) normal: 0.21196225 time: 0.0
+, fitness: 8.8496687E-4 crashed: true pos: (609.75946,385.5575) normal: 0.2852602 time: 0.0
+, fitness: 0.0021007077 crashed: true pos: (355.23984,524.8553) normal: 0.6771421 time: 0.0
+, fitness: 8.13981E-4 crashed: true pos: (405.48282,225.83806) normal: 0.26237863 time: 0.0
+, fitness: 7.8113406E-4 crashed: true pos: (467.62033,223.46024) normal: 0.25179076 time: 0.0
+, fitness: 8.178115E-4 crashed: true pos: (418.901,231.73175) normal: 0.26361334 time: 0.0
+, fitness: 7.8107003E-4 crashed: true pos: (353.52515,195.09125) normal: 0.25177008 time: 0.0
+, fitness: 7.980615E-4 crashed: true pos: (447.00504,227.6755) normal: 0.25724712 time: 0.0
+, fitness: 7.727341E-4 crashed: true pos: (492.89417,227.63477) normal: 0.2490831 time: 0.0
+, fitness: 8.728458E-4 crashed: true pos: (608.1781,375.13055) normal: 0.28135312 time: 0.0
+, fitness: 0.001984119 crashed: true pos: (449.98877,823.0105) normal: 0.6395609 time: 0.0
+, fitness: 8.055944E-4 crashed: true pos: (442.01636,230.96317) normal: 0.25967526 time: 0.0
+, fitness: 7.7267986E-4 crashed: true pos: (492.81604,227.56154) normal: 0.24906561 time: 0.0
+, fitness: 7.942989E-4 crashed: true pos: (621.144,325.3537) normal: 0.25603428 time: 0.0
+, fitness: 0.0033439472 crashed: true pos: (324.41263,816.9423) normal: 1.0778879 time: 0.0
+, fitness: 8.083981E-4 crashed: true pos: (378.96985,216.62857) normal: 0.26057905 time: 0.0
+, fitness: 0.0016933051 crashed: true pos: (500.67294,805.82117) normal: 0.54581994 time: 0.0
+, fitness: 7.812176E-4 crashed: true pos: (467.82956,223.59715) normal: 0.25181767 time: 0.0
+, fitness: 8.447688E-4 crashed: true pos: (612.98645,358.63354) normal: 0.27230275 time: 0.0
+, fitness: 0.0019197132 crashed: true pos: (410.1623,534.2039) normal: 0.61880034 time: 0.0
+, fitness: 8.315822E-4 crashed: true pos: (392.83694,233.55286) normal: 0.2680522 time: 0.0
+]Generation: 34
+max fitness: 0.0034905293
+[fitness: 0.0025370764 crashed: true pos: (400.2948,813.6667) normal: 0.57017976 time: 0.0
+, fitness: 8.36177E-4 crashed: true pos: (608.0238,347.4436) normal: 0.18792151 time: 0.0
+, fitness: 7.810608E-4 crashed: true pos: (353.56482,195.0903) normal: 0.17553475 time: 0.0
+, fitness: 7.787309E-4 crashed: true pos: (474.62482,224.44606) normal: 0.17501114 time: 0.0
+, fitness: 0.0020908667 crashed: true pos: (354.30154,523.5482) normal: 0.46989912 time: 0.0
+, fitness: 0.0033480232 crashed: true pos: (327.05887,815.90845) normal: 0.7524311 time: 0.0
+, fitness: 0.0031666462 crashed: true pos: (327.19873,823.08057) normal: 0.7116686 time: 0.0
+, fitness: 0.0016064714 crashed: true pos: (513.0664,809.5016) normal: 0.36103663 time: 0.0
+, fitness: 0.0021040079 crashed: true pos: (347.62042,522.4772) normal: 0.47285244 time: 0.0
+, fitness: 5.6113314E-4 crashed: true pos: (398.9953,-1.1487753) normal: 0.12610845 time: 0.0
+, fitness: 0.0026712038 crashed: true pos: (384.5468,817.46545) normal: 0.60032344 time: 0.0
+, fitness: 0.0033797394 crashed: true pos: (336.8533,810.799) normal: 0.7595589 time: 0.0
+, fitness: 8.090646E-4 crashed: true pos: (417.13434,225.76439) normal: 0.18182829 time: 0.0
+, fitness: 7.991528E-4 crashed: true pos: (432.00336,223.63235) normal: 0.17960073 time: 0.0
+, fitness: 0.0033756522 crashed: true pos: (329.0203,814.169) normal: 0.7586404 time: 0.0
+, fitness: 5.663154E-4 crashed: true pos: (342.20813,-1.2369368) normal: 0.1272731 time: 0.0
+, fitness: 9.2915003E-4 crashed: true pos: (613.65063,421.42807) normal: 0.20881616 time: 0.0
+, fitness: 0.0034339079 crashed: true pos: (351.1313,800.8942) normal: 0.7717327 time: 0.0
+, fitness: 8.000104E-4 crashed: true pos: (438.37915,226.15662) normal: 0.17979346 time: 0.0
+, fitness: 0.0010645583 crashed: true pos: (608.77106,507.3255) normal: 0.23924766 time: 0.0
+, fitness: 0.0020588734 crashed: true pos: (354.14395,520.3252) normal: 0.46270895 time: 0.0
+, fitness: 6.577762E-4 crashed: true pos: (610.23535,187.28535) normal: 0.1478279 time: 0.0
+, fitness: 0.0020577384 crashed: true pos: (354.12054,520.20276) normal: 0.4624539 time: 0.0
+, fitness: 0.0033013984 crashed: true pos: (346.75433,808.9616) normal: 0.74195266 time: 0.0
+, fitness: 7.81341E-4 crashed: true pos: (468.1669,223.81021) normal: 0.17559773 time: 0.0
+]Generation: 35
+max fitness: 0.0034339079
+[fitness: 0.0033923085 crashed: true pos: (331.87088,812.44867) normal: 0.6114127 time: 0.0
+, fitness: 0.0024746605 crashed: true pos: (404.333,815.2211) normal: 0.44602042 time: 0.0
+, fitness: 0.0033362168 crashed: true pos: (345.40332,808.2615) normal: 0.60130304 time: 0.0
+, fitness: 0.0022323362 crashed: true pos: (436.81616,802.80396) normal: 0.4023451 time: 0.0
+, fitness: 0.0022273357 crashed: true pos: (432.03958,810.2567) normal: 0.40144384 time: 0.0
+, fitness: 7.783657E-4 crashed: true pos: (347.1049,192.51292) normal: 0.14028874 time: 0.0
+, fitness: 0.0015349013 crashed: true pos: (525.0592,811.2446) normal: 0.27664292 time: 0.0
+, fitness: 0.001960087 crashed: true pos: (393.52487,528.32855) normal: 0.35327628 time: 0.0
+, fitness: 0.0039437944 crashed: true pos: (305.88193,802.83636) normal: 0.71080977 time: 0.0
+, fitness: 0.0018366873 crashed: true pos: (477.70364,809.9679) normal: 0.33103532 time: 0.0
+, fitness: 0.003290121 crashed: true pos: (330.66794,816.84283) normal: 0.5929949 time: 0.0
+, fitness: 6.8486715E-4 crashed: true pos: (610.7631,216.23103) normal: 0.12343703 time: 0.0
+, fitness: 0.0024320146 crashed: true pos: (415.0215,807.4835) normal: 0.4383341 time: 0.0
+, fitness: 0.002433543 crashed: true pos: (415.16397,807.1471) normal: 0.4386096 time: 0.0
+, fitness: 0.0035338525 crashed: true pos: (343.47415,801.6651) normal: 0.6369239 time: 0.0
+, fitness: 6.1662676E-4 crashed: true pos: (614.02734,142.19194) normal: 0.11113772 time: 0.0
+, fitness: 0.0024956344 crashed: true pos: (406.94867,810.42834) normal: 0.44980064 time: 0.0
+, fitness: 0.0032159616 crashed: true pos: (347.0207,812.48444) normal: 0.5796288 time: 0.0
+, fitness: 0.003325697 crashed: true pos: (337.1378,812.78015) normal: 0.599407 time: 0.0
+, fitness: 0.001995767 crashed: true pos: (354.96222,514.09283) normal: 0.35970706 time: 0.0
+, fitness: 0.0024365135 crashed: true pos: (416.28818,805.4383) normal: 0.439145 time: 0.0
+, fitness: 5.6612986E-4 crashed: true pos: (342.09537,-1.4777343) normal: 0.10203641 time: 0.0
+, fitness: 0.0030320196 crashed: true pos: (369.03052,807.1073) normal: 0.546476 time: 0.0
+, fitness: 7.9826E-4 crashed: true pos: (452.55502,229.70021) normal: 0.14387438 time: 0.0
+, fitness: 9.09418E-4 crashed: true pos: (616.05786,410.01743) normal: 0.16390893 time: 0.0
+]Generation: 36
+max fitness: 0.0039437944
+[fitness: 9.089226E-4 crashed: true pos: (616.28,409.90628) normal: 0.16899145 time: 0.0
+, fitness: 0.0030279073 crashed: true pos: (368.7119,807.58093) normal: 0.56296366 time: 0.0
+, fitness: 8.054028E-4 crashed: true pos: (417.62192,223.56772) normal: 0.14974453 time: 0.0
+, fitness: 7.734056E-4 crashed: true pos: (485.29932,224.9188) normal: 0.14379545 time: 0.0
+, fitness: 0.0030827438 crashed: true pos: (367.15042,805.81757) normal: 0.57315916 time: 0.0
+, fitness: 8.6442917E-4 crashed: true pos: (613.16254,373.7717) normal: 0.160719 time: 0.0
+, fitness: 0.0027331342 crashed: true pos: (389.28934,808.6381) normal: 0.50815797 time: 0.0
+, fitness: 0.002317465 crashed: true pos: (423.82852,809.49976) normal: 0.43087468 time: 0.0
+, fitness: 0.0013554107 crashed: true pos: (561.3479,814.2335) normal: 0.25200474 time: 0.0
+, fitness: 0.0036657676 crashed: true pos: (295.0938,811.88684) normal: 0.6815579 time: 0.0
+, fitness: 0.003219042 crashed: true pos: (348.45258,811.56415) normal: 0.59850043 time: 0.0
+, fitness: 6.7579636E-4 crashed: true pos: (608.6359,205.47464) normal: 0.12564744 time: 0.0
+, fitness: 6.9761666E-4 crashed: true pos: (617.0239,233.41638) normal: 0.12970439 time: 0.0
+, fitness: 0.0024840538 crashed: true pos: (408.70508,809.5834) normal: 0.46184772 time: 0.0
+, fitness: 0.0027543143 crashed: true pos: (378.35873,816.693) normal: 0.5120959 time: 0.0
+, fitness: 7.9436053E-4 crashed: true pos: (462.36618,230.60323) normal: 0.14769149 time: 0.0
+, fitness: 0.0022492632 crashed: true pos: (424.44696,817.05206) normal: 0.41819426 time: 0.0
+, fitness: 0.0033399963 crashed: true pos: (344.3066,808.6985) normal: 0.62098885 time: 0.0
+, fitness: 0.002480441 crashed: true pos: (409.08627,809.50555) normal: 0.461176 time: 0.0
+, fitness: 0.0035379487 crashed: true pos: (342.36203,802.13275) normal: 0.65779316 time: 0.0
+, fitness: 0.0015327072 crashed: true pos: (528.25415,804.9141) normal: 0.28496858 time: 0.0
+, fitness: 0.0019918038 crashed: true pos: (355.0168,513.6891) normal: 0.3703261 time: 0.0
+, fitness: 0.0038773138 crashed: true pos: (301.42206,805.28735) normal: 0.72088957 time: 0.0
+, fitness: 0.0012327936 crashed: true pos: (608.5176,753.4667) normal: 0.22920714 time: 0.0
+, fitness: 0.0033830886 crashed: true pos: (319.27386,817.0241) normal: 0.6290007 time: 0.0
+]Generation: 37
+max fitness: 0.0038773138
+[fitness: 0.0029713414 crashed: true pos: (366.59668,812.29285) normal: 0.6189766 time: 0.0
+, fitness: 0.001393555 crashed: true pos: (555.8047,806.2964) normal: 0.29029918 time: 0.0
+, fitness: 8.074445E-4 crashed: true pos: (435.69928,230.1403) normal: 0.16820325 time: 0.0
+, fitness: 8.6488284E-4 crashed: true pos: (615.8412,376.78302) normal: 0.18016854 time: 0.0
+, fitness: 6.661406E-4 crashed: true pos: (618.9031,201.92912) normal: 0.13876744 time: 0.0
+, fitness: 0.0038953782 crashed: true pos: (300.62686,804.9065) normal: 0.8114678 time: 0.0
+, fitness: 0.0022941874 crashed: true pos: (427.48694,807.6069) normal: 0.47791493 time: 0.0
+, fitness: 0.0033988655 crashed: true pos: (319.97403,816.2596) normal: 0.7080365 time: 0.0
+, fitness: 8.811657E-4 crashed: true pos: (612.1354,385.19263) normal: 0.18356052 time: 0.0
+, fitness: 0.0015809088 crashed: true pos: (513.2933,818.1589) normal: 0.32932788 time: 0.0
+, fitness: 0.0038084243 crashed: true pos: (294.04828,807.856) normal: 0.793354 time: 0.0
+, fitness: 6.968108E-4 crashed: true pos: (608.6078,226.83078) normal: 0.14515652 time: 0.0
+, fitness: 0.003943264 crashed: true pos: (300.4979,803.66595) normal: 0.8214432 time: 0.0
+, fitness: 8.0656883E-4 crashed: true pos: (418.76514,224.62253) normal: 0.16802081 time: 0.0
+, fitness: 8.4816315E-4 crashed: true pos: (612.19965,360.4973) normal: 0.17668557 time: 0.0
+, fitness: 0.002856657 crashed: true pos: (377.00052,811.09985) normal: 0.59508604 time: 0.0
+, fitness: 0.001080366 crashed: true pos: (608.9202,518.36115) normal: 0.22505702 time: 0.0
+, fitness: 0.0011685255 crashed: true pos: (608.235,582.05835) normal: 0.24342203 time: 0.0
+, fitness: 0.0013525656 crashed: true pos: (558.62787,822.2448) normal: 0.28176045 time: 0.0
+, fitness: 9.027126E-4 crashed: true pos: (612.242,400.98572) normal: 0.18804906 time: 0.0
+, fitness: 0.0016128919 crashed: true pos: (511.21246,811.0789) normal: 0.33599046 time: 0.0
+, fitness: 0.0020384116 crashed: true pos: (450.82013,812.52765) normal: 0.4246328 time: 0.0
+, fitness: 0.0032683634 crashed: true pos: (248.45648,818.821) normal: 0.68085086 time: 0.0
+, fitness: 0.0018660286 crashed: true pos: (413.2343,529.0283) normal: 0.38872278 time: 0.0
+, fitness: 0.0030004699 crashed: true pos: (369.38226,808.5895) normal: 0.6250446 time: 0.0
+]Generation: 38
+max fitness: 0.003943264
+[fitness: 0.0014293414 crashed: true pos: (543.1435,817.9668) normal: 0.3107578 time: 0.0
+, fitness: 0.002465624 crashed: true pos: (409.44397,810.56476) normal: 0.5360594 time: 0.0
+, fitness: 7.93177E-4 crashed: true pos: (620.21173,323.58606) normal: 0.1724472 time: 0.0
+, fitness: 0.0022724497 crashed: true pos: (429.85965,807.2085) normal: 0.49406075 time: 0.0
+, fitness: 9.84584E-4 crashed: true pos: (612.4674,458.51996) normal: 0.21406162 time: 0.0
+, fitness: 0.0031079354 crashed: true pos: (368.9298,803.07385) normal: 0.6757064 time: 0.0
+, fitness: 6.314385E-4 crashed: true pos: (615.21185,160.57767) normal: 0.13728312 time: 0.0
+, fitness: 0.0013543809 crashed: true pos: (558.3735,821.8388) normal: 0.2944604 time: 0.0
+, fitness: 0.0028335615 crashed: true pos: (388.28568,802.34973) normal: 0.6160539 time: 0.0
+, fitness: 0.0034439273 crashed: true pos: (293.0109,819.0383) normal: 0.74875546 time: 0.0
+, fitness: 0.0011440933 crashed: true pos: (608.1445,562.4904) normal: 0.24874108 time: 0.0
+, fitness: 0.00270772 crashed: true pos: (394.89145,804.96625) normal: 0.5886943 time: 0.0
+, fitness: 0.0018116891 crashed: true pos: (472.17358,824.76874) normal: 0.39388525 time: 0.0
+, fitness: 9.495724E-4 crashed: true pos: (609.2316,430.5018) normal: 0.20644964 time: 0.0
+, fitness: 8.760291E-4 crashed: true pos: (615.63885,384.97217) normal: 0.19046035 time: 0.0
+, fitness: 0.003540002 crashed: true pos: (285.89795,815.97473) normal: 0.7696434 time: 0.0
+, fitness: 0.0010768848 crashed: true pos: (611.7635,520.939) normal: 0.23412906 time: 0.0
+, fitness: 0.0020912988 crashed: true pos: (367.30283,528.94604) normal: 0.45467612 time: 0.0
+, fitness: 0.001796518 crashed: true pos: (403.42014,512.59906) normal: 0.39058685 time: 0.0
+, fitness: 0.0026661847 crashed: true pos: (400.1541,802.64734) normal: 0.579664 time: 0.0
+, fitness: 0.002984523 crashed: true pos: (370.37054,808.7248) normal: 0.64887494 time: 0.0
+, fitness: 8.129794E-4 crashed: true pos: (434.32553,233.24478) normal: 0.17675252 time: 0.0
+, fitness: 0.0020791022 crashed: true pos: (358.6175,524.0381) normal: 0.4520244 time: 0.0
+, fitness: 0.0013548323 crashed: true pos: (558.60095,821.07404) normal: 0.29455853 time: 0.0
+, fitness: 7.8750064E-4 crashed: true pos: (477.99753,231.93736) normal: 0.17121309 time: 0.0
+]Generation: 39
+max fitness: 0.003540002
+[fitness: 8.127734E-4 crashed: true pos: (434.28555,233.10176) normal: 0.20781682 time: 0.0
+, fitness: 0.0035167176 crashed: true pos: (292.4706,816.65454) normal: 0.8991843 time: 0.0
+, fitness: 0.0013548111 crashed: true pos: (558.64996,820.9732) normal: 0.34640965 time: 0.0
+, fitness: 0.0028283924 crashed: true pos: (388.9429,802.0506) normal: 0.72318745 time: 0.0
+, fitness: 0.0020687606 crashed: true pos: (359.16498,523.22034) normal: 0.5289583 time: 0.0
+, fitness: 0.0022518083 crashed: true pos: (432.13345,806.82556) normal: 0.57576156 time: 0.0
+, fitness: 9.346691E-4 crashed: true pos: (610.12,421.24197) normal: 0.23898415 time: 0.0
+, fitness: 8.5898204E-4 crashed: true pos: (610.2024,366.79794) normal: 0.21963185 time: 0.0
+, fitness: 7.926901E-4 crashed: true pos: (619.90717,322.90826) normal: 0.20268175 time: 0.0
+, fitness: 0.0021639813 crashed: true pos: (338.99588,525.3292) normal: 0.5533052 time: 0.0
+, fitness: 0.0023147517 crashed: true pos: (419.55276,815.0506) normal: 0.5918554 time: 0.0
+, fitness: 7.861451E-4 crashed: true pos: (482.02234,232.63327) normal: 0.20100826 time: 0.0
+, fitness: 0.002170088 crashed: true pos: (438.14322,809.9227) normal: 0.55486655 time: 0.0
+, fitness: 5.628107E-4 crashed: true pos: (365.00638,-3.5344486) normal: 0.14390422 time: 0.0
+, fitness: 7.9696655E-4 crashed: true pos: (616.32935,323.3863) normal: 0.20377518 time: 0.0
+, fitness: 0.0029924 crashed: true pos: (371.01154,807.7725) normal: 0.7651223 time: 0.0
+, fitness: 0.0018516459 crashed: true pos: (470.41617,818.71826) normal: 0.47344458 time: 0.0
+, fitness: 0.0013088575 crashed: true pos: (577.5935,800.6376) normal: 0.3346598 time: 0.0
+, fitness: 0.0017950633 crashed: true pos: (402.0289,511.55255) normal: 0.45897707 time: 0.0
+, fitness: 6.6694716E-4 crashed: true pos: (611.6851,198.09874) normal: 0.17053074 time: 0.0
+, fitness: 6.810087E-4 crashed: true pos: (611.5085,212.75648) normal: 0.1741261 time: 0.0
+, fitness: 8.168992E-4 crashed: true pos: (421.1298,231.78888) normal: 0.20887174 time: 0.0
+, fitness: 0.0022216144 crashed: true pos: (432.95688,809.7953) normal: 0.56804127 time: 0.0
+, fitness: 0.0019515447 crashed: true pos: (413.3778,540.85376) normal: 0.49898756 time: 0.0
+, fitness: 6.0975645E-4 crashed: true pos: (610.5254,131.76198) normal: 0.15590772 time: 0.0
+]Generation: 40
+max fitness: 0.0035167176
+[fitness: 5.628543E-4 crashed: true pos: (365.05728,-3.473421) normal: 0.14075635 time: 0.0
+, fitness: 0.0035298984 crashed: true pos: (294.6101,816.12476) normal: 0.88274294 time: 0.0
+, fitness: 8.800205E-4 crashed: true pos: (614.5333,386.8071) normal: 0.22007203 time: 0.0
+, fitness: 8.5101946E-4 crashed: true pos: (609.0948,359.74908) normal: 0.21281956 time: 0.0
+, fitness: 0.0018040866 crashed: true pos: (409.08032,517.2615) normal: 0.45115882 time: 0.0
+, fitness: 0.0029138364 crashed: true pos: (380.34418,804.574) normal: 0.7286806 time: 0.0
+, fitness: 7.7841204E-4 crashed: true pos: (481.41266,226.92181) normal: 0.1946622 time: 0.0
+, fitness: 9.313325E-4 crashed: true pos: (612.05493,421.1279) normal: 0.23290394 time: 0.0
+, fitness: 0.0022937108 crashed: true pos: (421.26242,815.4854) normal: 0.5736021 time: 0.0
+, fitness: 9.124526E-4 crashed: true pos: (609.7719,405.2771) normal: 0.22818251 time: 0.0
+, fitness: 0.003089365 crashed: true pos: (364.7884,807.2482) normal: 0.7725761 time: 0.0
+, fitness: 0.0021753025 crashed: true pos: (301.5764,519.6194) normal: 0.54399097 time: 0.0
+, fitness: 8.139179E-4 crashed: true pos: (610.629,332.27954) normal: 0.20354135 time: 0.0
+, fitness: 7.8036654E-4 crashed: true pos: (485.5502,230.01819) normal: 0.19515096 time: 0.0
+, fitness: 0.002533347 crashed: true pos: (409.38928,803.9709) normal: 0.63352937 time: 0.0
+, fitness: 0.0022695437 crashed: true pos: (433.22437,802.86414) normal: 0.56755847 time: 0.0
+, fitness: 8.8911486E-4 crashed: true pos: (609.23004,388.02646) normal: 0.22234632 time: 0.0
+, fitness: 0.0035296325 crashed: true pos: (346.38058,800.1316) normal: 0.8826765 time: 0.0
+, fitness: 9.302256E-4 crashed: true pos: (612.70734,421.0995) normal: 0.23262711 time: 0.0
+, fitness: 7.8383746E-4 crashed: true pos: (466.28073,224.84506) normal: 0.19601896 time: 0.0
+, fitness: 0.002181184 crashed: true pos: (439.2502,806.70166) normal: 0.54546183 time: 0.0
+, fitness: 8.1589003E-4 crashed: true pos: (404.1584,226.69734) normal: 0.20403454 time: 0.0
+, fitness: 7.9405314E-4 crashed: true pos: (616.38983,321.00684) normal: 0.19857365 time: 0.0
+, fitness: 0.0020330735 crashed: true pos: (450.70615,813.6159) normal: 0.5084229 time: 0.0
+, fitness: 9.1135694E-4 crashed: true pos: (610.4216,405.20346) normal: 0.22790852 time: 0.0
+]Generation: 41
+max fitness: 0.0035298984
+[fitness: 0.0031226927 crashed: true pos: (364.9954,805.3715) normal: 0.6800455 time: 0.0
+, fitness: 0.0036455912 crashed: true pos: (294.11948,812.5508) normal: 0.79391986 time: 0.0
+, fitness: 9.305282E-4 crashed: true pos: (610.2179,418.4685) normal: 0.20264609 time: 0.0
+, fitness: 0.001827678 crashed: true pos: (472.88602,820.1133) normal: 0.39802316 time: 0.0
+, fitness: 7.7877473E-4 crashed: true pos: (479.90216,226.56894) normal: 0.16959794 time: 0.0
+, fitness: 7.613265E-4 crashed: true pos: (502.64044,223.44467) normal: 0.16579814 time: 0.0
+, fitness: 0.0039019925 crashed: true pos: (288.22797,805.5115) normal: 0.84975773 time: 0.0
+, fitness: 7.767538E-4 crashed: true pos: (478.72067,224.65572) normal: 0.16915783 time: 0.0
+, fitness: 0.0020341831 crashed: true pos: (450.83313,813.23755) normal: 0.4429949 time: 0.0
+, fitness: 8.888665E-4 crashed: true pos: (609.97406,388.60712) normal: 0.1935732 time: 0.0
+, fitness: 0.0028428843 crashed: true pos: (371.44995,816.28375) normal: 0.6191101 time: 0.0
+, fitness: 0.0015844923 crashed: true pos: (514.3373,814.80707) normal: 0.34506333 time: 0.0
+, fitness: 0.002198484 crashed: true pos: (433.90005,811.70435) normal: 0.47877562 time: 0.0
+, fitness: 8.159457E-4 crashed: true pos: (403.29102,226.52106) normal: 0.17769285 time: 0.0
+, fitness: 7.580647E-4 crashed: true pos: (509.61942,224.13742) normal: 0.16508779 time: 0.0
+, fitness: 9.107943E-4 crashed: true pos: (610.7444,405.1534) normal: 0.19834854 time: 0.0
+, fitness: 0.003139969 crashed: true pos: (365.15106,804.37) normal: 0.6838078 time: 0.0
+, fitness: 0.0025675755 crashed: true pos: (409.02493,801.0978) normal: 0.5591546 time: 0.0
+, fitness: 5.9773267E-4 crashed: true pos: (609.59784,116.14613) normal: 0.13017143 time: 0.0
+, fitness: 7.818407E-4 crashed: true pos: (481.85004,229.53383) normal: 0.17026561 time: 0.0
+, fitness: 0.0016266464 crashed: true pos: (509.8264,809.1234) normal: 0.3542435 time: 0.0
+, fitness: 0.0029744876 crashed: true pos: (380.6742,800.44507) normal: 0.64777005 time: 0.0
+, fitness: 0.0036928777 crashed: true pos: (294.0248,811.1489) normal: 0.8042177 time: 0.0
+, fitness: 6.768043E-4 crashed: true pos: (615.17883,210.81088) normal: 0.14739127 time: 0.0
+, fitness: 0.002081893 crashed: true pos: (359.61795,524.714) normal: 0.45338494 time: 0.0
+]Generation: 42
+max fitness: 0.0039019925
+[fitness: 0.0028296742 crashed: true pos: (373.42456,815.6278) normal: 0.47377604 time: 0.0
+, fitness: 0.002975957 crashed: true pos: (380.8053,800.22845) normal: 0.49826837 time: 0.0
+, fitness: 0.002582073 crashed: true pos: (401.08566,808.8776) normal: 0.43231988 time: 0.0
+, fitness: 0.0015767331 crashed: true pos: (515.72034,814.8106) normal: 0.2639945 time: 0.0
+, fitness: 0.0018367738 crashed: true pos: (479.55298,806.59827) normal: 0.30753344 time: 0.0
+, fitness: 0.001955428 crashed: true pos: (392.0981,526.9094) normal: 0.32739985 time: 0.0
+, fitness: 0.002192399 crashed: true pos: (439.19794,805.11096) normal: 0.36707625 time: 0.0
+, fitness: 0.0037225413 crashed: true pos: (294.30872,810.2681) normal: 0.62327 time: 0.0
+, fitness: 8.056716E-4 crashed: true pos: (611.6337,326.498) normal: 0.13489465 time: 0.0
+, fitness: 0.0028021773 crashed: true pos: (384.6146,808.0813) normal: 0.46917224 time: 0.0
+, fitness: 0.0039800247 crashed: true pos: (288.66534,803.4997) normal: 0.66638076 time: 0.0
+, fitness: 0.0039787795 crashed: true pos: (288.64792,803.53125) normal: 0.66617227 time: 0.0
+, fitness: 0.0031341698 crashed: true pos: (366.26465,803.8113) normal: 0.52475816 time: 0.0
+, fitness: 7.728458E-4 crashed: true pos: (494.29,228.32039) normal: 0.12939858 time: 0.0
+, fitness: 0.0028095061 crashed: true pos: (375.91544,814.98737) normal: 0.4703993 time: 0.0
+, fitness: 0.0012795997 crashed: true pos: (581.3981,810.8653) normal: 0.21424505 time: 0.0
+, fitness: 0.003728572 crashed: true pos: (294.09314,810.1065) normal: 0.62427974 time: 0.0
+, fitness: 0.0031351652 crashed: true pos: (366.38266,803.6682) normal: 0.5249248 time: 0.0
+, fitness: 0.0011753893 crashed: true pos: (612.9778,601.99384) normal: 0.19679697 time: 0.0
+, fitness: 0.0031161911 crashed: true pos: (370.77164,801.1102) normal: 0.52174795 time: 0.0
+, fitness: 0.0025683313 crashed: true pos: (409.41528,800.541) normal: 0.43001908 time: 0.0
+, fitness: 0.0025201929 crashed: true pos: (410.0028,804.52203) normal: 0.4219592 time: 0.0
+, fitness: 7.69315E-4 crashed: true pos: (499.55032,228.03975) normal: 0.12880741 time: 0.0
+, fitness: 0.0016167648 crashed: true pos: (510.82175,810.52216) normal: 0.27069706 time: 0.0
+, fitness: 0.0018617141 crashed: true pos: (405.37048,523.03564) normal: 0.31170923 time: 0.0
+]Generation: 43
+max fitness: 0.0039800247
+[fitness: 6.460849E-4 crashed: true pos: (609.54565,173.93468) normal: 0.13721333 time: 0.0
+, fitness: 0.0018101911 crashed: true pos: (401.0304,513.12537) normal: 0.38444227 time: 0.0
+, fitness: 8.50704E-4 crashed: true pos: (609.1364,359.54938) normal: 0.18066965 time: 0.0
+, fitness: 0.0025180508 crashed: true pos: (409.75,805.0354) normal: 0.53477514 time: 0.0
+, fitness: 0.002152596 crashed: true pos: (440.84998,808.67285) normal: 0.45716107 time: 0.0
+, fitness: 0.003974114 crashed: true pos: (288.02325,803.65137) normal: 0.8440089 time: 0.0
+, fitness: 0.0024683748 crashed: true pos: (415.61426,802.87384) normal: 0.5242251 time: 0.0
+, fitness: 0.003819481 crashed: true pos: (301.8477,806.8067) normal: 0.8111685 time: 0.0
+, fitness: 0.0018523162 crashed: true pos: (406.16702,522.25385) normal: 0.3933887 time: 0.0
+, fitness: 0.0022681716 crashed: true pos: (425.5419,813.3756) normal: 0.48170662 time: 0.0
+, fitness: 6.781375E-4 crashed: true pos: (608.1173,207.57196) normal: 0.14402056 time: 0.0
+, fitness: 0.0031359273 crashed: true pos: (370.00952,800.69574) normal: 0.6659976 time: 0.0
+, fitness: 8.540719E-4 crashed: true pos: (612.1969,365.0014) normal: 0.18138492 time: 0.0
+, fitness: 6.80248E-4 crashed: true pos: (615.34686,214.52017) normal: 0.14446878 time: 0.0
+, fitness: 0.0018135629 crashed: true pos: (404.5328,515.7383) normal: 0.3851584 time: 0.0
+, fitness: 0.0023943498 crashed: true pos: (406.98917,820.263) normal: 0.5085039 time: 0.0
+, fitness: 0.0026359924 crashed: true pos: (389.1757,816.0937) normal: 0.55982316 time: 0.0
+, fitness: 0.003365544 crashed: true pos: (336.43073,811.5364) normal: 0.71476287 time: 0.0
+, fitness: 7.8528194E-4 crashed: true pos: (478.17032,230.45978) normal: 0.16677552 time: 0.0
+, fitness: 6.128684E-4 crashed: true pos: (608.7672,134.59453) normal: 0.13015893 time: 0.0
+, fitness: 5.8456836E-4 crashed: true pos: (613.0459,100.86673) normal: 0.12414866 time: 0.0
+, fitness: 0.0026472108 crashed: true pos: (401.8639,802.3326) normal: 0.56220573 time: 0.0
+, fitness: 6.8108086E-4 crashed: true pos: (615.36847,215.4005) normal: 0.14464566 time: 0.0
+, fitness: 0.0031807914 crashed: true pos: (360.33206,805.8706) normal: 0.6755257 time: 0.0
+, fitness: 6.7644345E-4 crashed: true pos: (608.91095,206.32599) normal: 0.14366078 time: 0.0
+]Generation: 44
+max fitness: 0.003974114
+[fitness: 8.1214745E-4 crashed: true pos: (610.9683,331.15497) normal: 0.15201987 time: 0.0
+, fitness: 0.0023298573 crashed: true pos: (427.4526,803.14233) normal: 0.43610877 time: 0.0
+, fitness: 0.0031890136 crashed: true pos: (360.1956,805.5702) normal: 0.5969279 time: 0.0
+, fitness: 0.0018292643 crashed: true pos: (481.7981,804.2799) normal: 0.34240648 time: 0.0
+, fitness: 0.0033337006 crashed: true pos: (337.93057,812.1044) normal: 0.6240108 time: 0.0
+, fitness: 7.661005E-4 crashed: true pos: (504.25323,227.76451) normal: 0.1434007 time: 0.0
+, fitness: 0.0018481606 crashed: true pos: (391.43442,512.8846) normal: 0.34594354 time: 0.0
+, fitness: 0.0025169442 crashed: true pos: (409.40662,805.552) normal: 0.4711282 time: 0.0
+, fitness: 6.4862595E-4 crashed: true pos: (610.3631,177.27533) normal: 0.121411495 time: 0.0
+, fitness: 0.003312873 crashed: true pos: (338.44278,812.69934) normal: 0.6201122 time: 0.0
+, fitness: 0.003845526 crashed: true pos: (254.51169,801.47876) normal: 0.71981555 time: 0.0
+, fitness: 0.0012563715 crashed: true pos: (585.91327,815.3019) normal: 0.23517089 time: 0.0
+, fitness: 0.002255274 crashed: true pos: (421.3226,819.9717) normal: 0.42214808 time: 0.0
+, fitness: 0.0039321133 crashed: true pos: (287.71457,804.7261) normal: 0.73602325 time: 0.0
+, fitness: 7.735043E-4 crashed: true pos: (378.20355,193.8009) normal: 0.14478655 time: 0.0
+, fitness: 8.5658266E-4 crashed: true pos: (612.76324,367.4533) normal: 0.16033737 time: 0.0
+, fitness: 0.003469653 crashed: true pos: (280.82135,818.0616) normal: 0.6494587 time: 0.0
+, fitness: 8.587143E-4 crashed: true pos: (611.2754,367.62784) normal: 0.16073638 time: 0.0
+, fitness: 0.0019136982 crashed: true pos: (387.0807,518.9562) normal: 0.35821104 time: 0.0
+, fitness: 0.0031743506 crashed: true pos: (360.19647,806.2773) normal: 0.59418327 time: 0.0
+, fitness: 0.002015846 crashed: true pos: (454.39954,811.0963) normal: 0.37733135 time: 0.0
+, fitness: 0.0032409162 crashed: true pos: (336.08514,816.6696) normal: 0.60664314 time: 0.0
+, fitness: 8.469677E-4 crashed: true pos: (613.6484,360.95477) normal: 0.15853763 time: 0.0
+, fitness: 7.77161E-4 crashed: true pos: (480.84888,225.80072) normal: 0.14547102 time: 0.0
+, fitness: 0.0036204022 crashed: true pos: (311.5145,810.9537) normal: 0.6776763 time: 0.0
+]Generation: 45
+max fitness: 0.0039321133
+[fitness: 6.9373054E-4 crashed: true pos: (608.18396,223.47794) normal: 0.011529281 time: 0.0
+, fitness: 5.986276E-4 crashed: true pos: (611.9095,118.56251) normal: 0.009948742 time: 0.0
+, fitness: 6.881299E-4 crashed: true pos: (613.7194,221.54405) normal: 0.0114362035 time: 0.0
+, fitness: 0.0032082647 crashed: true pos: (341.28836,815.71625) normal: 0.053318955 time: 0.0
+, fitness: 0.0022908414 crashed: true pos: (419.5142,817.8568) normal: 0.038072065 time: 0.0
+, fitness: 7.737715E-4 crashed: true pos: (499.28867,231.20258) normal: 0.012859502 time: 0.0
+, fitness: 7.894036E-4 crashed: true pos: (453.76346,224.16899) normal: 0.013119297 time: 0.0
+, fitness: 0.0028500902 crashed: true pos: (373.299,814.45044) normal: 0.047366362 time: 0.0
+, fitness: 0.0019787964 crashed: true pos: (382.15952,524.1263) normal: 0.032886114 time: 0.0
+, fitness: 0.0020454738 crashed: true pos: (343.70847,515.54913) normal: 0.03399424 time: 0.0
+, fitness: 7.846884E-4 crashed: true pos: (375.33115,200.77995) normal: 0.013040933 time: 0.0
+, fitness: 8.266688E-4 crashed: true pos: (608.44965,340.4508) normal: 0.013738615 time: 0.0
+, fitness: 0.0037542644 crashed: true pos: (288.3355,809.545) normal: 0.062393058 time: 0.0
+, fitness: 0.0018894924 crashed: true pos: (398.8415,522.6398) normal: 0.031401947 time: 0.0
+, fitness: 0.0034157617 crashed: true pos: (352.76236,800.5665) normal: 0.056767397 time: 0.0
+, fitness: 0.0013679654 crashed: true pos: (563.07556,802.16736) normal: 0.022734556 time: 0.0
+, fitness: 8.3846046E-4 crashed: true pos: (615.7515,356.34488) normal: 0.013934584 time: 0.0
+, fitness: 0.5543974 crashed: false pos: (292.62256,715.51276) normal: 9.213669 time: 38.52459
+, fitness: 8.5213856E-4 crashed: true pos: (614.152,365.40848) normal: 0.014161904 time: 0.0
+, fitness: 0.0033647257 crashed: true pos: (353.90698,801.9385) normal: 0.05591922 time: 0.0
+, fitness: 0.0035784263 crashed: true pos: (273.654,813.85657) normal: 0.05947076 time: 0.0
+, fitness: 0.003553492 crashed: true pos: (337.01962,804.3313) normal: 0.05905637 time: 0.0
+, fitness: 0.003020405 crashed: true pos: (361.23108,813.3431) normal: 0.050196867 time: 0.0
+, fitness: 0.0034986609 crashed: true pos: (311.12067,814.9672) normal: 0.058145117 time: 0.0
+, fitness: 6.521626E-4 crashed: true pos: (611.32324,181.79666) normal: 0.010838453 time: 0.0
+]Generation: 46
+max fitness: 0.5543974
+[fitness: 0.0030078946 crashed: true pos: (361.26846,813.9789) normal: 0.00588404 time: 0.0
+, fitness: 7.626847E-4 crashed: true pos: (500.80786,223.6521) normal: 0.0014919629 time: 0.0
+, fitness: 8.1524125E-4 crashed: true pos: (611.3246,333.94598) normal: 0.0015947741 time: 0.0
+, fitness: 0.0018443916 crashed: true pos: (405.38205,520.6387) normal: 0.0036079967 time: 0.0
+, fitness: 9.7544305E-4 crashed: true pos: (609.84784,448.8909) normal: 0.0019081606 time: 0.0
+, fitness: 0.5678148 crashed: false pos: (301.123,704.04016) normal: 1.1107587 time: 38.114754
+, fitness: 0.003330956 crashed: true pos: (329.4536,815.70386) normal: 0.0065160124 time: 0.0
+, fitness: 7.756746E-4 crashed: true pos: (484.2999,226.14322) normal: 0.0015173737 time: 0.0
+, fitness: 7.994529E-4 crashed: true pos: (430.86508,223.48793) normal: 0.0015638887 time: 0.0
+, fitness: 0.56599224 crashed: false pos: (301.0718,704.8816) normal: 1.1071934 time: 38.114754
+, fitness: 8.1629725E-4 crashed: true pos: (396.43872,225.13155) normal: 0.0015968397 time: 0.0
+, fitness: 0.0017550058 crashed: true pos: (415.22665,513.8951) normal: 0.0034331402 time: 0.0
+, fitness: 0.56954974 crashed: false pos: (300.9461,705.1538) normal: 1.1141526 time: 38.114754
+, fitness: 5.6335726E-4 crashed: true pos: (375.94638,-1.5613348) normal: 0.0011020388 time: 0.0
+, fitness: 0.56855214 crashed: false pos: (300.90894,705.49097) normal: 1.1122011 time: 38.114754
+, fitness: 0.57130903 crashed: false pos: (300.83182,705.55457) normal: 1.1175941 time: 38.114754
+, fitness: 0.5740901 crashed: false pos: (300.75433,705.618) normal: 1.1230345 time: 38.114754
+, fitness: 7.8377477E-4 crashed: true pos: (461.55362,223.06569) normal: 0.0015332194 time: 0.0
+, fitness: 6.5399037E-4 crashed: true pos: (611.9166,184.18501) normal: 0.0012793352 time: 0.0
+, fitness: 0.5682121 crashed: false pos: (300.75522,706.2182) normal: 1.1115359 time: 38.114754
+, fitness: 0.002230316 crashed: true pos: (424.9479,818.8039) normal: 0.0043629417 time: 0.0
+, fitness: 0.003336891 crashed: true pos: (341.12827,810.45557) normal: 0.006527622 time: 0.0
+, fitness: 0.56672615 crashed: false pos: (300.66302,706.689) normal: 1.108629 time: 38.114754
+, fitness: 0.5341452 crashed: false pos: (296.89978,713.60565) normal: 1.0448942 time: 38.52459
+, fitness: 0.0031117408 crashed: true pos: (341.81842,819.7369) normal: 0.006087184 time: 0.0
+]Generation: 47
+max fitness: 0.5740901
+[fitness: 8.097086E-4 crashed: true pos: (610.29083,328.60794) normal: 0.0074214 time: 0.0
+, fitness: 0.39201063 crashed: false pos: (305.61887,710.29095) normal: 3.592981 time: 38.114754
+, fitness: 7.7358406E-4 crashed: true pos: (494.8032,229.08263) normal: 0.0070902994 time: 0.0
+, fitness: 0.0012115253 crashed: true pos: (602.45703,803.6177) normal: 0.01110426 time: 0.0
+, fitness: 8.1819395E-4 crashed: true pos: (613.4762,338.21173) normal: 0.007499173 time: 0.0
+, fitness: 0.002905379 crashed: true pos: (373.17184,811.16815) normal: 0.026629308 time: 0.0
+, fitness: 0.002044784 crashed: true pos: (353.18195,518.55927) normal: 0.018741507 time: 0.0
+, fitness: 0.38972625 crashed: false pos: (305.55978,710.71436) normal: 3.5720434 time: 38.114754
+, fitness: 0.0039900886 crashed: true pos: (291.42126,803.19) normal: 0.036571234 time: 0.0
+, fitness: 0.0021834013 crashed: true pos: (303.09152,520.42224) normal: 0.020012008 time: 0.0
+, fitness: 7.9430605E-4 crashed: true pos: (610.98676,316.63666) normal: 0.0072802277 time: 0.0
+, fitness: 7.94493E-4 crashed: true pos: (611.0213,316.82) normal: 0.0072819414 time: 0.0
+, fitness: 7.946804E-4 crashed: true pos: (611.0558,317.00366) normal: 0.0072836587 time: 0.0
+, fitness: 7.575511E-4 crashed: true pos: (511.0008,224.38446) normal: 0.0069433497 time: 0.0
+, fitness: 8.0602744E-4 crashed: true pos: (451.83142,234.56189) normal: 0.0073876604 time: 0.0
+, fitness: 0.002291233 crashed: true pos: (429.55954,805.1692) normal: 0.02100034 time: 0.0
+, fitness: 0.0018605923 crashed: true pos: (467.70065,821.00995) normal: 0.017053295 time: 0.0
+, fitness: 0.07099258 crashed: false pos: (305.7817,712.297) normal: 0.6506839 time: 38.114754
+, fitness: 0.0038521108 crashed: true pos: (260.38913,803.101) normal: 0.035306595 time: 0.0
+, fitness: 0.0036528618 crashed: true pos: (327.85434,804.99304) normal: 0.033480376 time: 0.0
+, fitness: 0.06950432 crashed: false pos: (305.7836,713.1879) normal: 0.6370432 time: 38.114754
+, fitness: 0.069031626 crashed: false pos: (305.7754,713.4813) normal: 0.63271075 time: 38.114754
+, fitness: 7.953043E-4 crashed: true pos: (447.6286,226.05182) normal: 0.0072893775 time: 0.0
+, fitness: 0.06770777 crashed: false pos: (305.8264,714.17395) normal: 0.62057686 time: 38.114754
+, fitness: 9.3662785E-4 crashed: true pos: (612.16565,424.97076) normal: 0.008584681 time: 0.0
+]Generation: 48
+max fitness: 0.39201063
+[fitness: 7.588808E-4 crashed: true pos: (506.79453,223.46384) normal: 0.035650466 time: 0.0
+, fitness: 0.06547327 crashed: false pos: (305.96402,715.27435) normal: 3.075783 time: 38.114754
+, fitness: 5.648857E-4 crashed: true pos: (364.86694,-0.92346406) normal: 0.026537022 time: 0.0
+, fitness: 0.0019807846 crashed: true pos: (406.415,539.4221) normal: 0.09305268 time: 0.0
+, fitness: 0.06354592 crashed: false pos: (306.0164,716.33887) normal: 2.9852402 time: 38.114754
+, fitness: 0.06287603 crashed: false pos: (306.02188,716.72925) normal: 2.9537704 time: 38.114754
+, fitness: 8.0005085E-4 crashed: true pos: (611.37,321.68637) normal: 0.037584536 time: 0.0
+, fitness: 8.003691E-4 crashed: true pos: (611.38513,321.95996) normal: 0.03759949 time: 0.0
+, fitness: 8.006886E-4 crashed: true pos: (611.39996,322.23413) normal: 0.037614495 time: 0.0
+, fitness: 0.0018879378 crashed: true pos: (407.5538,528.0818) normal: 0.08869095 time: 0.0
+, fitness: 0.0022691868 crashed: true pos: (428.8564,808.9821) normal: 0.10660115 time: 0.0
+, fitness: 7.6866243E-4 crashed: true pos: (490.00043,223.42117) normal: 0.03610998 time: 0.0
+, fitness: 7.613783E-4 crashed: true pos: (509.01462,226.3882) normal: 0.03576779 time: 0.0
+, fitness: 8.02334E-4 crashed: true pos: (611.4064,323.58475) normal: 0.037691794 time: 0.0
+, fitness: 8.026594E-4 crashed: true pos: (611.4213,323.86307) normal: 0.03770708 time: 0.0
+, fitness: 8.029854E-4 crashed: true pos: (611.43646,324.142) normal: 0.037722394 time: 0.0
+, fitness: 8.033124E-4 crashed: true pos: (611.4518,324.42175) normal: 0.037737757 time: 0.0
+, fitness: 8.0364005E-4 crashed: true pos: (611.46716,324.702) normal: 0.03775315 time: 0.0
+, fitness: 8.039691E-4 crashed: true pos: (611.4823,324.98306) normal: 0.037768606 time: 0.0
+, fitness: 8.042994E-4 crashed: true pos: (611.49744,325.26486) normal: 0.037784122 time: 0.0
+, fitness: 8.0462993E-4 crashed: true pos: (611.51306,325.5473) normal: 0.037799653 time: 0.0
+, fitness: 7.98441E-4 crashed: true pos: (451.961,229.61432) normal: 0.03750891 time: 0.0
+, fitness: 7.753524E-4 crashed: true pos: (488.39194,227.61586) normal: 0.03642426 time: 0.0
+, fitness: 8.0566516E-4 crashed: true pos: (611.4882,326.3677) normal: 0.037848283 time: 0.0
+, fitness: 7.717028E-4 crashed: true pos: (502.14246,230.96884) normal: 0.03625281 time: 0.0
+]Generation: 49
+max fitness: 0.06547327
+[fitness: 8.063547E-4 crashed: true pos: (611.48334,326.92334) normal: 0.38667405 time: 0.0
+, fitness: 9.2588115E-4 crashed: true pos: (610.00085,414.97656) normal: 0.44399098 time: 0.0
+, fitness: 8.070561E-4 crashed: true pos: (615.36414,330.8705) normal: 0.3870104 time: 0.0
+, fitness: 8.0736895E-4 crashed: true pos: (611.52924,327.78528) normal: 0.38716042 time: 0.0
+, fitness: 6.836979E-4 crashed: true pos: (608.96454,213.84795) normal: 0.32785597 time: 0.0
+, fitness: 7.598296E-4 crashed: true pos: (509.62643,225.4916) normal: 0.36436367 time: 0.0
+, fitness: 7.7651953E-4 crashed: true pos: (475.1978,223.0994) normal: 0.37236708 time: 0.0
+, fitness: 6.418647E-4 crashed: true pos: (612.93964,171.23608) normal: 0.30779558 time: 0.0
+, fitness: 8.089992E-4 crashed: true pos: (611.39526,328.9886) normal: 0.38794217 time: 0.0
+, fitness: 8.093441E-4 crashed: true pos: (611.41034,329.28027) normal: 0.38810757 time: 0.0
+, fitness: 7.7216775E-4 crashed: true pos: (484.67175,223.76398) normal: 0.37028027 time: 0.0
+, fitness: 7.7646127E-4 crashed: true pos: (489.25272,228.77975) normal: 0.37233916 time: 0.0
+, fitness: 8.1040466E-4 crashed: true pos: (611.4195,330.14398) normal: 0.38861614 time: 0.0
+, fitness: 8.107595E-4 crashed: true pos: (611.4307,330.43976) normal: 0.38878626 time: 0.0
+, fitness: 8.1937795E-4 crashed: true pos: (411.03793,230.58424) normal: 0.39291912 time: 0.0
+, fitness: 8.1087387E-4 crashed: true pos: (608.8295,328.28897) normal: 0.38884115 time: 0.0
+, fitness: 8.1184675E-4 crashed: true pos: (611.4301,331.31464) normal: 0.38930768 time: 0.0
+, fitness: 8.1220706E-4 crashed: true pos: (611.44055,331.61356) normal: 0.38948044 time: 0.0
+, fitness: 7.8457856E-4 crashed: true pos: (473.60846,228.15909) normal: 0.37623164 time: 0.0
+, fitness: 8.126989E-4 crashed: true pos: (611.58514,332.13495) normal: 0.3897163 time: 0.0
+, fitness: 7.6545123E-4 crashed: true pos: (510.18506,230.0194) normal: 0.36705944 time: 0.0
+, fitness: 0.0018483562 crashed: true pos: (398.00836,516.638) normal: 0.8863486 time: 0.0
+, fitness: 7.685185E-4 crashed: true pos: (497.80563,226.67754) normal: 0.3685303 time: 0.0
+, fitness: 8.141831E-4 crashed: true pos: (611.564,333.30798) normal: 0.390428 time: 0.0
+, fitness: 8.0880127E-4 crashed: true pos: (609.44904,327.15536) normal: 0.38784724 time: 0.0
+]Generation: 50
+max fitness: 0.0018483562
+[fitness: 8.149194E-4 crashed: true pos: (611.5852,333.91666) normal: 0.26309377 time: 0.0
+, fitness: 8.1528875E-4 crashed: true pos: (611.596,334.22192) normal: 0.26321298 time: 0.0
+, fitness: 0.0018675216 crashed: true pos: (397.95587,519.1902) normal: 0.6029225 time: 0.0
+, fitness: 8.1575493E-4 crashed: true pos: (611.7915,334.7668) normal: 0.26336348 time: 0.0
+, fitness: 8.225204E-4 crashed: true pos: (411.699,232.6851) normal: 0.2655477 time: 0.0
+, fitness: 7.765802E-4 crashed: true pos: (484.78946,226.99571) normal: 0.2507161 time: 0.0
+, fitness: 6.7968573E-4 crashed: true pos: (612.0034,211.71332) normal: 0.21943405 time: 0.0
+, fitness: 8.1004895E-4 crashed: true pos: (421.9806,227.72638) normal: 0.26152134 time: 0.0
+, fitness: 7.979513E-4 crashed: true pos: (450.2173,228.68896) normal: 0.2576157 time: 0.0
+, fitness: 7.7807636E-4 crashed: true pos: (474.41403,223.90018) normal: 0.25119913 time: 0.0
+, fitness: 8.1651425E-4 crashed: true pos: (612.7195,336.19366) normal: 0.26360863 time: 0.0
+, fitness: 8.107883E-4 crashed: true pos: (610.7378,329.8625) normal: 0.26176003 time: 0.0
+, fitness: 7.740133E-4 crashed: true pos: (480.20825,223.28677) normal: 0.24988738 time: 0.0
+, fitness: 0.0018241891 crashed: true pos: (399.17612,513.99835) normal: 0.58893275 time: 0.0
+, fitness: 7.581768E-4 crashed: true pos: (510.33423,224.55493) normal: 0.24477461 time: 0.0
+, fitness: 0.0020668127 crashed: true pos: (337.03204,515.7794) normal: 0.667263 time: 0.0
+, fitness: 8.037124E-4 crashed: true pos: (610.3035,323.76892) normal: 0.25947562 time: 0.0
+, fitness: 8.1736926E-4 crashed: true pos: (613.90173,337.93033) normal: 0.2638847 time: 0.0
+, fitness: 8.1748975E-4 crashed: true pos: (614.0769,338.18353) normal: 0.2639236 time: 0.0
+, fitness: 0.0037955965 crashed: true pos: (254.68259,802.98004) normal: 1.2253945 time: 0.0
+, fitness: 0.0031356097 crashed: true pos: (361.61768,807.18134) normal: 1.0123202 time: 0.0
+, fitness: 8.1156526E-4 crashed: true pos: (609.54407,329.45627) normal: 0.26201087 time: 0.0
+, fitness: 8.179713E-4 crashed: true pos: (614.78253,339.20258) normal: 0.26407903 time: 0.0
+, fitness: 8.1809197E-4 crashed: true pos: (614.96,339.45908) normal: 0.264118 time: 0.0
+, fitness: 0.0031282397 crashed: true pos: (364.6613,805.3383) normal: 1.0099407 time: 0.0
+]Generation: 51
+max fitness: 0.0037955965
+[fitness: 7.7502546E-4 crashed: true pos: (488.27032,227.32837) normal: 0.0138907125 time: 0.0
+, fitness: 0.003278444 crashed: true pos: (361.3305,800.51337) normal: 0.05875926 time: 0.0
+, fitness: 8.0876396E-4 crashed: true pos: (415.40677,225.11012) normal: 0.014495404 time: 0.0
+, fitness: 7.9501834E-4 crashed: true pos: (448.17847,226.04535) normal: 0.014249044 time: 0.0
+, fitness: 7.702339E-4 crashed: true pos: (502.42746,230.0127) normal: 0.013804834 time: 0.0
+, fitness: 0.0037200614 crashed: true pos: (246.8508,802.3398) normal: 0.06667433 time: 0.0
+, fitness: 0.0036033452 crashed: true pos: (253.09863,808.37866) normal: 0.06458244 time: 0.0
+, fitness: 0.0024864418 crashed: true pos: (407.70447,810.4746) normal: 0.044564273 time: 0.0
+, fitness: 0.0038416167 crashed: true pos: (262.47556,803.94586) normal: 0.06885295 time: 0.0
+, fitness: 7.9046364E-4 crashed: true pos: (611.0116,313.47205) normal: 0.014167409 time: 0.0
+, fitness: 0.0018131767 crashed: true pos: (397.82416,511.67245) normal: 0.032497406 time: 0.0
+, fitness: 0.5117989 crashed: false pos: (302.8348,707.86505) normal: 9.172927 time: 35.65574
+, fitness: 8.03247E-4 crashed: true pos: (422.40836,223.50304) normal: 0.014396524 time: 0.0
+, fitness: 8.2000694E-4 crashed: true pos: (608.3719,335.15305) normal: 0.014696912 time: 0.0
+, fitness: 8.2014065E-4 crashed: true pos: (608.549,335.4128) normal: 0.014699307 time: 0.0
+, fitness: 0.002015817 crashed: true pos: (350.46414,514.6573) normal: 0.03612931 time: 0.0
+, fitness: 0.0019415207 crashed: true pos: (380.98883,519.15497) normal: 0.034797706 time: 0.0
+, fitness: 8.5663854E-4 crashed: true pos: (609.7597,364.61417) normal: 0.015353457 time: 0.0
+, fitness: 0.0018455989 crashed: true pos: (411.06616,524.59766) normal: 0.033078507 time: 0.0
+, fitness: 0.0025294542 crashed: true pos: (412.4517,800.5656) normal: 0.04533518 time: 0.0
+, fitness: 0.0025286125 crashed: true pos: (412.47354,800.62305) normal: 0.045320097 time: 0.0
+, fitness: 0.0034362527 crashed: true pos: (249.72696,812.9341) normal: 0.061587654 time: 0.0
+, fitness: 9.574695E-4 crashed: true pos: (612.0218,439.29584) normal: 0.017160641 time: 0.0
+, fitness: 0.00395105 crashed: true pos: (281.16425,804.0079) normal: 0.07081432 time: 0.0
+, fitness: 9.57706E-4 crashed: true pos: (612.04266,439.48502) normal: 0.017164879 time: 0.0
+]Generation: 52
+max fitness: 0.5117989
+[fitness: 9.579513E-4 crashed: true pos: (612.05524,439.66998) normal: 0.018720103 time: 0.0
+, fitness: 7.984236E-4 crashed: true pos: (442.61926,226.46979) normal: 0.015602644 time: 0.0
+, fitness: 7.720449E-4 crashed: true pos: (503.58658,231.87921) normal: 0.015087156 time: 0.0
+, fitness: 6.053464E-4 crashed: true pos: (612.845,127.58341) normal: 0.011829565 time: 0.0
+, fitness: 0.0015958481 crashed: true pos: (512.6811,814.1037) normal: 0.031185763 time: 0.0
+, fitness: 0.0020877935 crashed: true pos: (314.65204,513.273) normal: 0.040799268 time: 0.0
+, fitness: 0.4137716 crashed: false pos: (304.6622,712.7612) normal: 8.085847 time: 35.65574
+, fitness: 6.4774515E-4 crashed: true pos: (608.05273,174.88489) normal: 0.012658114 time: 0.0
+, fitness: 0.0020281856 crashed: true pos: (227.5885,515.2597) normal: 0.03963442 time: 0.0
+, fitness: 0.0033290244 crashed: true pos: (227.67804,806.91614) normal: 0.06505517 time: 0.0
+, fitness: 5.5830757E-4 crashed: true pos: (414.5075,-2.1934865) normal: 0.0109103415 time: 0.0
+, fitness: 0.0038049282 crashed: true pos: (249.08005,800.657) normal: 0.074355185 time: 0.0
+, fitness: 9.356337E-4 crashed: true pos: (608.8172,420.42657) normal: 0.018283978 time: 0.0
+, fitness: 8.114042E-4 crashed: true pos: (610.49274,330.14566) normal: 0.015856309 time: 0.0
+, fitness: 0.002016773 crashed: true pos: (460.17596,801.45233) normal: 0.039411396 time: 0.0
+, fitness: 6.550736E-4 crashed: true pos: (610.0437,184.21036) normal: 0.012801326 time: 0.0
+, fitness: 8.200811E-4 crashed: true pos: (609.28827,336.0117) normal: 0.016025871 time: 0.0
+, fitness: 7.8466133E-4 crashed: true pos: (609.3199,307.24356) normal: 0.015333704 time: 0.0
+, fitness: 8.64147E-4 crashed: true pos: (611.8362,372.2555) normal: 0.016886998 time: 0.0
+, fitness: 0.06442975 crashed: false pos: (305.78473,716.13495) normal: 1.2590741 time: 35.65574
+, fitness: 0.002042561 crashed: true pos: (333.34525,512.4896) normal: 0.039915346 time: 0.0
+, fitness: 0.0033315718 crashed: true pos: (219.46968,801.5841) normal: 0.06510495 time: 0.0
+, fitness: 0.0019414708 crashed: true pos: (382.7306,520.0404) normal: 0.037939854 time: 0.0
+, fitness: 6.7182875E-4 crashed: true pos: (616.04016,206.13107) normal: 0.013128751 time: 0.0
+, fitness: 0.0014612217 crashed: true pos: (542.24524,804.4637) normal: 0.02855492 time: 0.0
+]Generation: 53
+max fitness: 0.4137716
+[fitness: 0.06641576 crashed: false pos: (304.8354,716.28894) normal: 1.6225061 time: 35.245903
+, fitness: 0.059871096 crashed: false pos: (306.67673,717.7403) normal: 1.462623 time: 35.65574
+, fitness: 0.003750531 crashed: true pos: (270.68286,808.23627) normal: 0.09162373 time: 0.0
+, fitness: 0.0034064625 crashed: true pos: (236.32063,808.44006) normal: 0.08321829 time: 0.0
+, fitness: 7.9847936E-4 crashed: true pos: (442.62994,226.51003) normal: 0.019506479 time: 0.0
+, fitness: 0.05779353 crashed: false pos: (306.39008,719.4114) normal: 1.411869 time: 37.704918
+, fitness: 0.003983106 crashed: true pos: (267.8175,801.3752) normal: 0.09730542 time: 0.0
+, fitness: 0.00194157 crashed: true pos: (383.4286,520.41534) normal: 0.047431648 time: 0.0
+, fitness: 0.055223748 crashed: false pos: (307.63345,719.7306) normal: 1.3490905 time: 35.65574
+, fitness: 0.0017874179 crashed: true pos: (406.93655,513.43604) normal: 0.043665785 time: 0.0
+, fitness: 7.744071E-4 crashed: true pos: (484.60083,225.35443) normal: 0.018918404 time: 0.0
+, fitness: 0.05354864 crashed: false pos: (307.9728,720.57135) normal: 1.3081683 time: 35.65574
+, fitness: 0.0020529062 crashed: true pos: (351.56104,518.813) normal: 0.05015154 time: 0.0
+, fitness: 0.06842426 crashed: false pos: (301.7646,718.61896) normal: 1.6715729 time: 34.836067
+, fitness: 0.0036178348 crashed: true pos: (325.9548,806.84454) normal: 0.08838202 time: 0.0
+, fitness: 0.003881411 crashed: true pos: (255.29062,800.7266) normal: 0.094821066 time: 0.0
+, fitness: 8.94586E-4 crashed: true pos: (608.2384,390.94815) normal: 0.021854319 time: 0.0
+, fitness: 8.0406223E-4 crashed: true pos: (450.40085,232.78058) normal: 0.019642867 time: 0.0
+, fitness: 0.0034567118 crashed: true pos: (308.86447,816.8204) normal: 0.08444586 time: 0.0
+, fitness: 0.003840881 crashed: true pos: (255.66783,801.9967) normal: 0.093830936 time: 0.0
+, fitness: 0.003827788 crashed: true pos: (255.83626,802.426) normal: 0.093511075 time: 0.0
+, fitness: 0.003814725 crashed: true pos: (256.0055,802.85645) normal: 0.09319195 time: 0.0
+, fitness: 0.0038016713 crashed: true pos: (256.17517,803.28845) normal: 0.09287306 time: 0.0
+, fitness: 9.446503E-4 crashed: true pos: (610.6622,428.79547) normal: 0.023077369 time: 0.0
+, fitness: 6.843383E-4 crashed: true pos: (609.8333,215.07498) normal: 0.016718065 time: 0.0
+]Generation: 54
+max fitness: 0.06842426
+[fitness: 0.0037600931 crashed: true pos: (307.91815,807.499) normal: 0.29621127 time: 0.0
+, fitness: 8.320784E-4 crashed: true pos: (608.63354,344.82455) normal: 0.06554917 time: 0.0
+, fitness: 0.003733704 crashed: true pos: (256.73053,805.4672) normal: 0.2941324 time: 0.0
+, fitness: 0.0033804006 crashed: true pos: (242.85777,812.37994) normal: 0.2663 time: 0.0
+, fitness: 0.0037073959 crashed: true pos: (257.0448,806.35645) normal: 0.2920599 time: 0.0
+, fitness: 0.059013426 crashed: false pos: (304.6372,720.48926) normal: 4.6489387 time: 38.52459
+, fitness: 0.002660999 crashed: true pos: (396.53412,807.0014) normal: 0.20962724 time: 0.0
+, fitness: 0.0036733411 crashed: true pos: (257.12988,807.42535) normal: 0.28937715 time: 0.0
+, fitness: 0.0035257519 crashed: true pos: (230.65631,800.8919) normal: 0.27775043 time: 0.0
+, fitness: 0.003649097 crashed: true pos: (257.16843,808.19086) normal: 0.28746727 time: 0.0
+, fitness: 0.0034404956 crashed: true pos: (252.96635,813.85834) normal: 0.27103415 time: 0.0
+, fitness: 7.9714647E-4 crashed: true pos: (441.64978,225.31313) normal: 0.06279732 time: 0.0
+, fitness: 0.003618255 crashed: true pos: (257.1661,809.1635) normal: 0.2850376 time: 0.0
+, fitness: 0.003607343 crashed: true pos: (257.17465,809.51416) normal: 0.284178 time: 0.0
+, fitness: 5.9877604E-4 crashed: true pos: (615.3449,120.66965) normal: 0.047170166 time: 0.0
+, fitness: 0.0036777968 crashed: true pos: (283.59756,811.67163) normal: 0.28972816 time: 0.0
+, fitness: 0.003573173 crashed: true pos: (257.30643,810.6553) normal: 0.28148615 time: 0.0
+, fitness: 0.0037578258 crashed: true pos: (309.26328,807.29913) normal: 0.29603267 time: 0.0
+, fitness: 7.823249E-4 crashed: true pos: (473.37436,226.49136) normal: 0.061629713 time: 0.0
+, fitness: 0.0038529923 crashed: true pos: (318.0504,802.3711) normal: 0.30352968 time: 0.0
+, fitness: 0.0035278203 crashed: true pos: (257.40732,812.1793) normal: 0.2779134 time: 0.0
+, fitness: 8.381985E-4 crashed: true pos: (614.63153,355.08487) normal: 0.06603131 time: 0.0
+, fitness: 0.0019535923 crashed: true pos: (411.19324,539.4567) normal: 0.1538994 time: 0.0
+, fitness: 0.0013395712 crashed: true pos: (562.31287,820.967) normal: 0.105528265 time: 0.0
+, fitness: 0.0036379627 crashed: true pos: (252.2069,806.9626) normal: 0.28659013 time: 0.0
+]Generation: 55
+max fitness: 0.059013426
+[fitness: 6.9094606E-4 crashed: true pos: (612.58777,223.63899) normal: 0.0054961997 time: 0.0
+, fitness: 0.0029661916 crashed: true pos: (195.21834,800.8617) normal: 0.02359487 time: 0.0
+, fitness: 0.0038128714 crashed: true pos: (282.3624,807.7562) normal: 0.030329868 time: 0.0
+, fitness: 0.0039517204 crashed: true pos: (264.40088,801.4323) normal: 0.031434357 time: 0.0
+, fitness: 0.0039058058 crashed: true pos: (301.87485,804.4674) normal: 0.031069124 time: 0.0
+, fitness: 0.00392475 crashed: true pos: (264.47607,802.16534) normal: 0.031219816 time: 0.0
+, fitness: 0.5942818 crashed: false pos: (297.50085,712.5137) normal: 4.727274 time: 35.65574
+, fitness: 0.0034675421 crashed: true pos: (344.01526,803.84235) normal: 0.02758291 time: 0.0
+, fitness: 0.0035994325 crashed: true pos: (258.42896,810.122) normal: 0.028632045 time: 0.0
+, fitness: 0.0037599998 crashed: true pos: (273.0392,808.32574) normal: 0.029909294 time: 0.0
+, fitness: 0.003858467 crashed: true pos: (264.5248,803.9752) normal: 0.030692564 time: 0.0
+, fitness: 0.002989672 crashed: true pos: (373.82306,805.64124) normal: 0.023781646 time: 0.0
+, fitness: 6.435052E-4 crashed: true pos: (609.0527,170.73479) normal: 0.0051188264 time: 0.0
+, fitness: 7.919083E-4 crashed: true pos: (458.5135,227.54204) normal: 0.006299314 time: 0.0
+, fitness: 8.3383516E-4 crashed: true pos: (612.34,349.55087) normal: 0.0066328254 time: 0.0
+, fitness: 0.5999057 crashed: false pos: (300.86838,703.4216) normal: 4.7720103 time: 36.885246
+, fitness: 6.2500976E-4 crashed: true pos: (611.9769,151.07054) normal: 0.0049717026 time: 0.0
+, fitness: 0.003760827 crashed: true pos: (264.79126,806.7965) normal: 0.029915877 time: 0.0
+, fitness: 0.0028179071 crashed: true pos: (382.46744,808.9505) normal: 0.022415325 time: 0.0
+, fitness: 0.0037353544 crashed: true pos: (264.8254,807.5472) normal: 0.02971325 time: 0.0
+, fitness: 8.894058E-4 crashed: true pos: (610.2529,389.284) normal: 0.0070748674 time: 0.0
+, fitness: 0.0037070892 crashed: true pos: (264.92102,808.4043) normal: 0.029488413 time: 0.0
+, fitness: 0.0036945518 crashed: true pos: (264.93845,808.7829) normal: 0.029388683 time: 0.0
+, fitness: 0.0036746867 crashed: true pos: (311.98386,809.17773) normal: 0.029230662 time: 0.0
+, fitness: 8.4535975E-4 crashed: true pos: (608.63696,355.0301) normal: 0.0067244987 time: 0.0
+]Generation: 56
+max fitness: 0.5999057
+[fitness: 0.0036542711 crashed: true pos: (265.05283,810.0286) normal: 0.01375943 time: 0.0
+, fitness: 0.0038638497 crashed: true pos: (312.48123,803.5874) normal: 0.014548555 time: 0.0
+, fitness: 0.0035660483 crashed: true pos: (321.844,809.9414) normal: 0.0134272445 time: 0.0
+, fitness: 0.06931486 crashed: false pos: (298.6332,720.5865) normal: 0.26099128 time: 35.65574
+, fitness: 0.06802628 crashed: false pos: (298.81482,720.9316) normal: 0.2561394 time: 35.65574
+, fitness: 0.52283764 crashed: false pos: (301.36636,709.29175) normal: 1.968641 time: 36.885246
+, fitness: 0.0036973804 crashed: true pos: (313.8061,808.06177) normal: 0.013921749 time: 0.0
+, fitness: 0.0040472522 crashed: true pos: (272.99716,800.68713) normal: 0.015239121 time: 0.0
+, fitness: 0.06368511 crashed: false pos: (299.1446,722.3938) normal: 0.2397936 time: 35.65574
+, fitness: 7.7626045E-4 crashed: true pos: (492.42856,229.995) normal: 0.002922854 time: 0.0
+, fitness: 0.0030015404 crashed: true pos: (377.5212,801.71924) normal: 0.011301702 time: 0.0
+, fitness: 0.5232833 crashed: false pos: (302.7595,703.17773) normal: 1.970319 time: 36.885246
+, fitness: 6.797307E-4 crashed: true pos: (609.51184,210.12569) normal: 0.0025593906 time: 0.0
+, fitness: 0.0029277627 crashed: true pos: (192.75941,800.9546) normal: 0.011023907 time: 0.0
+, fitness: 0.0032036505 crashed: true pos: (219.87741,807.63617) normal: 0.012062708 time: 0.0
+, fitness: 0.0031983356 crashed: true pos: (220.06282,808.00385) normal: 0.012042696 time: 0.0
+, fitness: 0.5305682 crashed: false pos: (300.44846,710.5477) normal: 1.9977487 time: 36.885246
+, fitness: 8.005024E-4 crashed: true pos: (449.67157,230.19077) normal: 0.0030141324 time: 0.0
+, fitness: 0.4305651 crashed: false pos: (301.8765,714.369) normal: 1.621207 time: 36.885246
+, fitness: 0.0036408084 crashed: true pos: (242.97783,803.21716) normal: 0.013708739 time: 0.0
+, fitness: 0.0038632657 crashed: true pos: (254.16689,800.8556) normal: 0.014546357 time: 0.0
+, fitness: 0.003150721 crashed: true pos: (220.34976,810.4292) normal: 0.011863412 time: 0.0
+, fitness: 0.0029250085 crashed: true pos: (383.9222,800.4678) normal: 0.011013537 time: 0.0
+, fitness: 0.39868292 crashed: false pos: (302.02667,716.36383) normal: 1.5011611 time: 36.885246
+, fitness: 0.0018706274 crashed: true pos: (415.32965,531.2115) normal: 0.0070434744 time: 0.0
+]Generation: 57
+max fitness: 0.5305682
+[fitness: 8.4887375E-4 crashed: true pos: (612.97064,361.77365) normal: 0.010644525 time: 0.0
+, fitness: 0.003459072 crashed: true pos: (336.67993,807.89233) normal: 0.043375336 time: 0.0
+, fitness: 0.0032946176 crashed: true pos: (352.9417,805.58167) normal: 0.04131314 time: 0.0
+, fitness: 0.0018384946 crashed: true pos: (414.30124,525.84357) normal: 0.02305396 time: 0.0
+, fitness: 0.06627399 crashed: false pos: (302.44128,718.92) normal: 0.8310484 time: 36.885246
+, fitness: 0.41569433 crashed: false pos: (301.08438,716.1927) normal: 5.212635 time: 36.885246
+, fitness: 0.06432786 crashed: false pos: (302.51514,719.72375) normal: 0.8066448 time: 36.885246
+, fitness: 0.0034692832 crashed: true pos: (343.07803,804.2914) normal: 0.043503378 time: 0.0
+, fitness: 0.06302512 crashed: false pos: (302.49213,720.34454) normal: 0.79030895 time: 36.885246
+, fitness: 0.0034292084 crashed: true pos: (229.52489,803.92926) normal: 0.04300086 time: 0.0
+, fitness: 0.0025677292 crashed: true pos: (170.36206,805.1206) normal: 0.032198265 time: 0.0
+, fitness: 0.0034116264 crashed: true pos: (229.72583,804.7388) normal: 0.042780384 time: 0.0
+, fitness: 0.003652052 crashed: true pos: (285.45636,812.4979) normal: 0.04579522 time: 0.0
+, fitness: 0.0033940505 crashed: true pos: (229.92735,805.55225) normal: 0.04255999 time: 0.0
+, fitness: 0.003387065 crashed: true pos: (230.1222,805.9413) normal: 0.042472392 time: 0.0
+, fitness: 0.07086318 crashed: false pos: (304.43915,714.56934) normal: 0.888595 time: 36.885246
+, fitness: 0.06458083 crashed: false pos: (301.46313,720.47235) normal: 0.80981684 time: 36.885246
+, fitness: 0.003521389 crashed: true pos: (245.03358,808.1519) normal: 0.044156764 time: 0.0
+, fitness: 0.0035099126 crashed: true pos: (245.1019,808.5808) normal: 0.044012852 time: 0.0
+, fitness: 6.878484E-4 crashed: true pos: (610.3518,218.99704) normal: 0.008625335 time: 0.0
+, fitness: 0.0033306195 crashed: true pos: (230.68208,808.53735) normal: 0.041764595 time: 0.0
+, fitness: 6.825601E-4 crashed: true pos: (612.66583,215.12495) normal: 0.008559021 time: 0.0
+, fitness: 0.0016384752 crashed: true pos: (502.427,819.70575) normal: 0.020545803 time: 0.0
+, fitness: 0.0032933052 crashed: true pos: (231.66615,810.60425) normal: 0.041296687 time: 0.0
+, fitness: 0.0032928945 crashed: true pos: (231.1723,810.3614) normal: 0.041291535 time: 0.0
+]Generation: 58
+max fitness: 0.41569433
